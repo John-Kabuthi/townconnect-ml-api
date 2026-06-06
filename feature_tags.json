@@ -1,0 +1,13 @@
+{
+  "aspects": [
+    "food_quality",
+    "price",
+    "service",
+    "ambience"
+  ],
+  "sentiment_classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}

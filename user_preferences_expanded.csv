@@ -1,0 +1,501 @@
+user_id,liked_categories,price_preference,activity_level
+user_001,"['Hardware Kiosk', 'Car Wash', 'General Shop', 'Food Vendor', 'Salon', 'Hardware', 'Barbershop', 'Church']",budget,medium
+user_002,"['Motorbike Repair', 'Tailor Shop', 'Bakery', 'Electronics Store', 'Cobbler', 'Church', 'Salon', 'Pharmacy', 'Barbershop']",budget,high
+user_003,"['Cobbler', 'Car Wash', 'Bakery', 'Tailor Shop', 'Pharmacy', 'Hardware', 'Electronics Store', 'Church', 'Hardware Kiosk', 'Food Vendor', 'Barbershop']",mid,low
+user_004,"['Hardware', 'Mobile Money Agent', 'Food Vendor', 'Salon', 'Tailor Shop', 'General Shop', 'Pharmacy', 'Cobbler']",budget,high
+user_005,"['Barbershop', 'Hardware Kiosk', 'Food Vendor', 'Pharmacy', 'Salon', 'General Shop', 'Hardware', 'Motorbike Repair', 'Church', 'Bakery', 'Electronics Store', 'Mobile Money Agent']",mid,medium
+user_006,"['Church', 'Tailor Shop', 'General Shop', 'Bakery', 'Food Vendor', 'Mobile Money Agent', 'Hardware', 'Cobbler', 'Car Wash', 'Electronics Store']",budget,high
+user_007,"['Bakery', 'Motorbike Repair', 'Mobile Money Agent', 'Electronics Store', 'Cobbler', 'Hardware', 'Pharmacy', 'Tailor Shop', 'Barbershop']",budget,medium
+user_008,"['Cobbler', 'Hardware', 'General Shop', 'Mobile Money Agent', 'Salon', 'Car Wash', 'Electronics Store', 'Church']",mid,low
+user_009,"['Church', 'Cobbler', 'Hardware Kiosk', 'Electronics Store', 'Salon', 'Food Vendor', 'Pharmacy', 'Bakery', 'Car Wash', 'General Shop']",budget,medium
+user_010,"['Tailor Shop', 'Car Wash', 'Motorbike Repair', 'Barbershop', 'Mobile Money Agent', 'Hardware Kiosk', 'Hardware', 'Food Vendor', 'Pharmacy', 'Cobbler', 'Salon', 'General Shop']",premium,medium
+user_011,"['Motorbike Repair', 'Hardware Kiosk', 'Barbershop', 'Salon', 'Pharmacy', 'Cobbler', 'Mobile Money Agent', 'Hardware', 'Electronics Store', 'Car Wash', 'Bakery', 'General Shop']",budget,high
+user_012,"['Pharmacy', 'Electronics Store', 'Barbershop', 'Mobile Money Agent', 'Tailor Shop', 'Bakery', 'Cobbler', 'Motorbike Repair']",budget,medium
+user_013,"['Mobile Money Agent', 'Hardware', 'General Shop', 'Pharmacy', 'Motorbike Repair', 'Hardware Kiosk', 'Electronics Store', 'Church']",mid,high
+user_014,"['Cobbler', 'Hardware', 'Pharmacy', 'Salon', 'Bakery', 'Mobile Money Agent', 'Car Wash', 'Motorbike Repair', 'General Shop', 'Hardware Kiosk', 'Tailor Shop']",premium,medium
+user_015,"['Barbershop', 'Bakery', 'Cobbler', 'Hardware', 'Hardware Kiosk', 'General Shop', 'Car Wash', 'Motorbike Repair', 'Salon']",budget,high
+user_016,"['Barbershop', 'Motorbike Repair', 'Hardware Kiosk', 'Food Vendor', 'Hardware', 'Mobile Money Agent', 'Bakery', 'Tailor Shop', 'Church', 'General Shop', 'Salon']",mid,medium
+user_017,"['Cobbler', 'Pharmacy', 'Salon', 'Motorbike Repair', 'Barbershop', 'Food Vendor', 'Mobile Money Agent', 'General Shop']",mid,low
+user_018,"['Pharmacy', 'Salon', 'Cobbler', 'Barbershop', 'Bakery', 'Church', 'Hardware', 'Car Wash', 'Food Vendor', 'Electronics Store']",budget,medium
+user_019,"['Hardware Kiosk', 'Electronics Store', 'Barbershop', 'Tailor Shop', 'Salon', 'Pharmacy', 'Food Vendor', 'Hardware']",mid,medium
+user_020,"['Tailor Shop', 'Salon', 'Church', 'Pharmacy', 'Barbershop', 'Car Wash', 'General Shop', 'Bakery']",budget,low
+user_021,"['Electronics Store', 'Hardware Kiosk', 'Church', 'Cobbler', 'Hardware', 'Mobile Money Agent', 'Car Wash', 'Barbershop', 'Bakery', 'Motorbike Repair', 'Tailor Shop', 'Food Vendor']",budget,high
+user_022,"['Motorbike Repair', 'General Shop', 'Hardware', 'Cobbler', 'Car Wash', 'Tailor Shop', 'Mobile Money Agent', 'Bakery', 'Hardware Kiosk', 'Barbershop']",budget,medium
+user_023,"['Car Wash', 'Pharmacy', 'Mobile Money Agent', 'Hardware Kiosk', 'Bakery', 'Cobbler', 'Tailor Shop', 'Motorbike Repair']",budget,medium
+user_024,"['Hardware', 'General Shop', 'Food Vendor', 'Electronics Store', 'Church', 'Mobile Money Agent', 'Motorbike Repair', 'Bakery', 'Tailor Shop', 'Car Wash', 'Cobbler', 'Salon']",budget,medium
+user_025,"['Motorbike Repair', 'General Shop', 'Electronics Store', 'Church', 'Cobbler', 'Pharmacy', 'Barbershop', 'Hardware', 'Car Wash', 'Mobile Money Agent', 'Food Vendor']",budget,high
+user_026,"['Church', 'General Shop', 'Electronics Store', 'Barbershop', 'Mobile Money Agent', 'Cobbler', 'Pharmacy', 'Motorbike Repair', 'Hardware Kiosk']",premium,medium
+user_027,"['Barbershop', 'Mobile Money Agent', 'Tailor Shop', 'Motorbike Repair', 'General Shop', 'Cobbler', 'Car Wash', 'Electronics Store', 'Church']",budget,low
+user_028,"['Tailor Shop', 'Food Vendor', 'Hardware', 'Car Wash', 'Cobbler', 'Mobile Money Agent', 'Motorbike Repair', 'Electronics Store', 'Pharmacy', 'Bakery', 'General Shop']",premium,medium
+user_029,"['Salon', 'Electronics Store', 'Bakery', 'Tailor Shop', 'Barbershop', 'Hardware Kiosk', 'Motorbike Repair', 'Car Wash', 'Church', 'Mobile Money Agent']",budget,low
+user_030,"['Cobbler', 'Church', 'Pharmacy', 'Barbershop', 'Hardware', 'General Shop', 'Mobile Money Agent', 'Car Wash', 'Hardware Kiosk', 'Electronics Store', 'Motorbike Repair', 'Bakery']",budget,high
+user_031,"['Car Wash', 'Pharmacy', 'Cobbler', 'Tailor Shop', 'Barbershop', 'Hardware', 'Hardware Kiosk', 'Salon', 'Church']",budget,low
+user_032,"['Bakery', 'Salon', 'Electronics Store', 'Cobbler', 'General Shop', 'Barbershop', 'Car Wash', 'Tailor Shop', 'Motorbike Repair']",mid,medium
+user_033,"['Bakery', 'Electronics Store', 'Hardware Kiosk', 'Barbershop', 'Motorbike Repair', 'Food Vendor', 'Cobbler', 'Pharmacy']",premium,medium
+user_034,"['Salon', 'Barbershop', 'Electronics Store', 'Church', 'General Shop', 'Hardware Kiosk', 'Food Vendor', 'Mobile Money Agent', 'Car Wash', 'Bakery', 'Hardware', 'Pharmacy']",budget,high
+user_035,"['Hardware Kiosk', 'General Shop', 'Electronics Store', 'Barbershop', 'Cobbler', 'Pharmacy', 'Salon', 'Food Vendor', 'Car Wash', 'Motorbike Repair', 'Church', 'Hardware']",budget,low
+user_036,"['Tailor Shop', 'Hardware Kiosk', 'Motorbike Repair', 'Electronics Store', 'Church', 'Food Vendor', 'General Shop', 'Barbershop', 'Pharmacy', 'Bakery', 'Mobile Money Agent']",budget,medium
+user_037,"['Hardware Kiosk', 'Pharmacy', 'Electronics Store', 'Bakery', 'Salon', 'Mobile Money Agent', 'Church', 'Food Vendor', 'Motorbike Repair', 'Car Wash']",mid,high
+user_038,"['Food Vendor', 'Cobbler', 'Pharmacy', 'Hardware Kiosk', 'Electronics Store', 'Hardware', 'Tailor Shop', 'Mobile Money Agent', 'Church', 'Bakery', 'Motorbike Repair', 'Car Wash']",mid,low
+user_039,"['Motorbike Repair', 'Bakery', 'Mobile Money Agent', 'Food Vendor', 'General Shop', 'Pharmacy', 'Electronics Store', 'Car Wash', 'Church', 'Tailor Shop']",budget,medium
+user_040,"['General Shop', 'Mobile Money Agent', 'Hardware Kiosk', 'Cobbler', 'Motorbike Repair', 'Pharmacy', 'Salon', 'Tailor Shop', 'Church', 'Bakery', 'Barbershop', 'Car Wash']",budget,low
+user_041,"['Cobbler', 'Tailor Shop', 'Church', 'Car Wash', 'Motorbike Repair', 'Food Vendor', 'Bakery', 'Pharmacy', 'Hardware', 'General Shop']",budget,high
+user_042,"['Salon', 'Tailor Shop', 'Hardware', 'Electronics Store', 'Motorbike Repair', 'Bakery', 'Barbershop', 'Church', 'Mobile Money Agent', 'Cobbler', 'General Shop', 'Pharmacy']",mid,medium
+user_043,"['Hardware Kiosk', 'Motorbike Repair', 'General Shop', 'Food Vendor', 'Hardware', 'Mobile Money Agent', 'Barbershop', 'Car Wash']",mid,high
+user_044,"['Hardware', 'Tailor Shop', 'Motorbike Repair', 'General Shop', 'Mobile Money Agent', 'Salon', 'Cobbler', 'Hardware Kiosk', 'Pharmacy', 'Bakery', 'Church']",budget,medium
+user_045,"['Church', 'Car Wash', 'Hardware Kiosk', 'Food Vendor', 'Hardware', 'Cobbler', 'Motorbike Repair', 'Mobile Money Agent']",budget,medium
+user_046,"['Barbershop', 'Motorbike Repair', 'Tailor Shop', 'General Shop', 'Car Wash', 'Bakery', 'Cobbler', 'Mobile Money Agent', 'Hardware Kiosk', 'Pharmacy', 'Electronics Store']",mid,high
+user_047,"['Pharmacy', 'Motorbike Repair', 'Hardware', 'Barbershop', 'Car Wash', 'Tailor Shop', 'Food Vendor', 'Cobbler', 'Bakery', 'Mobile Money Agent', 'Electronics Store', 'Hardware Kiosk']",mid,high
+user_048,"['Pharmacy', 'Hardware Kiosk', 'Tailor Shop', 'Mobile Money Agent', 'Motorbike Repair', 'General Shop', 'Salon', 'Barbershop', 'Electronics Store', 'Food Vendor', 'Bakery', 'Cobbler']",mid,low
+user_049,"['Food Vendor', 'Barbershop', 'Hardware Kiosk', 'Salon', 'Pharmacy', 'Tailor Shop', 'Bakery', 'Electronics Store', 'Church', 'Car Wash']",budget,medium
+user_050,"['Pharmacy', 'Cobbler', 'Electronics Store', 'Car Wash', 'Hardware Kiosk', 'Food Vendor', 'Bakery', 'Mobile Money Agent', 'Salon', 'Barbershop', 'Church']",mid,low
+user_051,"['Hardware', 'Bakery', 'General Shop', 'Hardware Kiosk', 'Salon', 'Tailor Shop', 'Food Vendor', 'Barbershop', 'Cobbler', 'Car Wash', 'Electronics Store', 'Motorbike Repair']",budget,low
+user_052,"['Car Wash', 'Food Vendor', 'Motorbike Repair', 'Hardware', 'Pharmacy', 'Church', 'Electronics Store', 'Bakery']",budget,medium
+user_053,"['Food Vendor', 'Cobbler', 'Electronics Store', 'Barbershop', 'Car Wash', 'Motorbike Repair', 'Hardware', 'Pharmacy']",budget,high
+user_054,"['Mobile Money Agent', 'Barbershop', 'Bakery', 'Motorbike Repair', 'Electronics Store', 'Tailor Shop', 'Food Vendor', 'Hardware Kiosk', 'Car Wash']",budget,low
+user_055,"['Tailor Shop', 'Barbershop', 'Hardware Kiosk', 'Bakery', 'Mobile Money Agent', 'Church', 'Food Vendor', 'Cobbler', 'Motorbike Repair', 'Car Wash', 'General Shop', 'Salon']",budget,medium
+user_056,"['Church', 'General Shop', 'Hardware', 'Cobbler', 'Hardware Kiosk', 'Food Vendor', 'Mobile Money Agent', 'Tailor Shop', 'Electronics Store', 'Motorbike Repair', 'Car Wash', 'Bakery']",mid,medium
+user_057,"['Barbershop', 'Pharmacy', 'Hardware', 'Food Vendor', 'Mobile Money Agent', 'Bakery', 'Motorbike Repair', 'Cobbler']",budget,medium
+user_058,"['Barbershop', 'General Shop', 'Motorbike Repair', 'Food Vendor', 'Cobbler', 'Car Wash', 'Salon', 'Tailor Shop', 'Electronics Store']",mid,medium
+user_059,"['Salon', 'General Shop', 'Hardware', 'Cobbler', 'Food Vendor', 'Tailor Shop', 'Hardware Kiosk', 'Pharmacy', 'Mobile Money Agent']",budget,medium
+user_060,"['Mobile Money Agent', 'Tailor Shop', 'Pharmacy', 'Car Wash', 'Electronics Store', 'Bakery', 'Cobbler', 'Hardware Kiosk', 'Food Vendor', 'General Shop', 'Motorbike Repair', 'Church']",budget,medium
+user_061,"['Salon', 'Bakery', 'Pharmacy', 'Mobile Money Agent', 'Barbershop', 'Car Wash', 'Electronics Store', 'Hardware', 'General Shop']",budget,low
+user_062,"['Pharmacy', 'Church', 'Hardware', 'Car Wash', 'Cobbler', 'Barbershop', 'Mobile Money Agent', 'Bakery']",premium,medium
+user_063,"['Electronics Store', 'Cobbler', 'Motorbike Repair', 'Pharmacy', 'Food Vendor', 'Bakery', 'Salon', 'Barbershop', 'Car Wash', 'General Shop']",budget,medium
+user_064,"['Tailor Shop', 'Barbershop', 'Hardware', 'Mobile Money Agent', 'General Shop', 'Bakery', 'Car Wash', 'Motorbike Repair', 'Cobbler', 'Hardware Kiosk']",mid,low
+user_065,"['Hardware Kiosk', 'Barbershop', 'Mobile Money Agent', 'Electronics Store', 'Pharmacy', 'General Shop', 'Tailor Shop', 'Salon', 'Church', 'Car Wash']",mid,low
+user_066,"['Hardware Kiosk', 'Tailor Shop', 'Cobbler', 'Pharmacy', 'Car Wash', 'Church', 'Bakery', 'Motorbike Repair', 'Mobile Money Agent', 'Salon', 'General Shop']",budget,medium
+user_067,"['Barbershop', 'Pharmacy', 'Electronics Store', 'Hardware', 'Motorbike Repair', 'Hardware Kiosk', 'Cobbler', 'Car Wash']",mid,medium
+user_068,"['Bakery', 'Cobbler', 'Tailor Shop', 'Electronics Store', 'Pharmacy', 'Motorbike Repair', 'Church', 'Hardware', 'Mobile Money Agent', 'Barbershop', 'General Shop', 'Car Wash']",mid,high
+user_069,"['Hardware', 'Hardware Kiosk', 'Motorbike Repair', 'General Shop', 'Salon', 'Tailor Shop', 'Electronics Store', 'Cobbler']",mid,medium
+user_070,"['Cobbler', 'Tailor Shop', 'Barbershop', 'Hardware', 'Electronics Store', 'Motorbike Repair', 'Hardware Kiosk', 'Bakery', 'Salon', 'General Shop', 'Church', 'Pharmacy']",budget,medium
+user_071,"['Electronics Store', 'Motorbike Repair', 'Bakery', 'Barbershop', 'Hardware Kiosk', 'Car Wash', 'Mobile Money Agent', 'Tailor Shop', 'General Shop', 'Hardware', 'Food Vendor']",budget,medium
+user_072,"['Pharmacy', 'Barbershop', 'Tailor Shop', 'Bakery', 'Car Wash', 'Cobbler', 'Hardware', 'Motorbike Repair', 'General Shop']",budget,high
+user_073,"['Motorbike Repair', 'Electronics Store', 'Tailor Shop', 'Barbershop', 'Salon', 'Mobile Money Agent', 'Church', 'Cobbler', 'Hardware Kiosk']",mid,high
+user_074,"['Electronics Store', 'Church', 'Barbershop', 'Hardware', 'Bakery', 'Mobile Money Agent', 'General Shop', 'Tailor Shop', 'Pharmacy', 'Cobbler', 'Hardware Kiosk', 'Food Vendor']",mid,medium
+user_075,"['Church', 'Tailor Shop', 'Mobile Money Agent', 'Food Vendor', 'Salon', 'Cobbler', 'Car Wash', 'Pharmacy', 'Bakery', 'Motorbike Repair', 'Electronics Store', 'Hardware Kiosk']",mid,medium
+user_076,"['Salon', 'Electronics Store', 'Barbershop', 'Car Wash', 'Mobile Money Agent', 'Cobbler', 'Pharmacy', 'Motorbike Repair', 'Bakery', 'Hardware', 'Church']",budget,medium
+user_077,"['Mobile Money Agent', 'Bakery', 'Tailor Shop', 'General Shop', 'Hardware Kiosk', 'Food Vendor', 'Barbershop', 'Church', 'Cobbler', 'Motorbike Repair', 'Electronics Store', 'Salon']",mid,medium
+user_078,"['Salon', 'Bakery', 'Electronics Store', 'Motorbike Repair', 'Car Wash', 'Barbershop', 'Cobbler', 'Mobile Money Agent', 'Food Vendor', 'Hardware Kiosk', 'Tailor Shop']",budget,high
+user_079,"['Hardware Kiosk', 'Hardware', 'Electronics Store', 'Bakery', 'Tailor Shop', 'Barbershop', 'Motorbike Repair', 'Mobile Money Agent', 'Pharmacy', 'Church', 'Salon']",budget,medium
+user_080,"['Electronics Store', 'Mobile Money Agent', 'Hardware', 'Motorbike Repair', 'Church', 'Cobbler', 'Bakery', 'Pharmacy', 'Barbershop', 'Food Vendor', 'Salon', 'Hardware Kiosk']",mid,medium
+user_081,"['Food Vendor', 'Mobile Money Agent', 'Church', 'Electronics Store', 'General Shop', 'Barbershop', 'Bakery', 'Pharmacy', 'Tailor Shop']",budget,medium
+user_082,"['Hardware Kiosk', 'Barbershop', 'Tailor Shop', 'Car Wash', 'Motorbike Repair', 'Church', 'Electronics Store', 'Hardware']",premium,high
+user_083,"['Cobbler', 'Motorbike Repair', 'Salon', 'Pharmacy', 'Hardware', 'Car Wash', 'Food Vendor', 'Bakery', 'Hardware Kiosk', 'Electronics Store', 'Church']",budget,low
+user_084,"['Motorbike Repair', 'Cobbler', 'Bakery', 'Church', 'Electronics Store', 'Tailor Shop', 'Barbershop', 'Hardware']",budget,high
+user_085,"['Church', 'Hardware', 'Bakery', 'Tailor Shop', 'Cobbler', 'Pharmacy', 'Food Vendor', 'Motorbike Repair', 'Electronics Store', 'Mobile Money Agent', 'Car Wash']",mid,medium
+user_086,"['Church', 'Car Wash', 'Motorbike Repair', 'Tailor Shop', 'Hardware Kiosk', 'Bakery', 'Pharmacy', 'Barbershop', 'Cobbler', 'Hardware']",premium,low
+user_087,"['General Shop', 'Car Wash', 'Salon', 'Bakery', 'Church', 'Motorbike Repair', 'Pharmacy', 'Hardware', 'Mobile Money Agent', 'Hardware Kiosk', 'Barbershop']",budget,medium
+user_088,"['Car Wash', 'Church', 'Electronics Store', 'Food Vendor', 'Bakery', 'Salon', 'Hardware Kiosk', 'Motorbike Repair', 'Tailor Shop']",budget,high
+user_089,"['Mobile Money Agent', 'Motorbike Repair', 'Tailor Shop', 'Electronics Store', 'Food Vendor', 'Bakery', 'Car Wash', 'Hardware', 'Pharmacy']",budget,low
+user_090,"['Mobile Money Agent', 'Barbershop', 'Motorbike Repair', 'Tailor Shop', 'Car Wash', 'Salon', 'Cobbler', 'Food Vendor', 'Hardware', 'Church', 'Bakery', 'Pharmacy']",budget,medium
+user_091,"['Mobile Money Agent', 'Motorbike Repair', 'Tailor Shop', 'Salon', 'Barbershop', 'General Shop', 'Bakery', 'Cobbler', 'Car Wash', 'Hardware']",premium,medium
+user_092,"['Pharmacy', 'Barbershop', 'Bakery', 'Food Vendor', 'Salon', 'Hardware Kiosk', 'Motorbike Repair', 'Electronics Store', 'Tailor Shop']",premium,high
+user_093,"['Food Vendor', 'Salon', 'Barbershop', 'Motorbike Repair', 'Car Wash', 'Pharmacy', 'Hardware Kiosk', 'Bakery', 'Tailor Shop', 'Mobile Money Agent', 'Church', 'Hardware']",mid,high
+user_094,"['Hardware', 'Motorbike Repair', 'Food Vendor', 'General Shop', 'Bakery', 'Salon', 'Tailor Shop', 'Car Wash', 'Cobbler']",budget,medium
+user_095,"['Car Wash', 'Barbershop', 'Food Vendor', 'Pharmacy', 'Motorbike Repair', 'Church', 'Hardware Kiosk', 'Bakery', 'Cobbler', 'Mobile Money Agent']",mid,low
+user_096,"['Hardware', 'General Shop', 'Electronics Store', 'Pharmacy', 'Barbershop', 'Food Vendor', 'Hardware Kiosk', 'Mobile Money Agent', 'Bakery', 'Motorbike Repair']",mid,medium
+user_097,"['Motorbike Repair', 'Hardware', 'Church', 'Hardware Kiosk', 'Mobile Money Agent', 'Tailor Shop', 'General Shop', 'Car Wash', 'Pharmacy', 'Salon']",premium,low
+user_098,"['Pharmacy', 'Electronics Store', 'General Shop', 'Hardware Kiosk', 'Bakery', 'Barbershop', 'Car Wash', 'Tailor Shop', 'Hardware', 'Salon']",budget,medium
+user_099,"['Cobbler', 'Mobile Money Agent', 'Hardware Kiosk', 'Food Vendor', 'Electronics Store', 'Pharmacy', 'Salon', 'Barbershop', 'General Shop', 'Bakery', 'Motorbike Repair', 'Car Wash']",premium,low
+user_100,"['Car Wash', 'Pharmacy', 'Motorbike Repair', 'Food Vendor', 'Cobbler', 'Tailor Shop', 'Mobile Money Agent', 'Salon', 'Hardware', 'Barbershop']",premium,high
+user_101,"['Car Wash', 'Mobile Money Agent', 'General Shop', 'Hardware', 'Bakery', 'Food Vendor', 'Hardware Kiosk', 'Motorbike Repair', 'Barbershop', 'Cobbler']",mid,medium
+user_102,"['Hardware', 'General Shop', 'Church', 'Hardware Kiosk', 'Motorbike Repair', 'Mobile Money Agent', 'Tailor Shop', 'Electronics Store', 'Pharmacy']",budget,medium
+user_103,"['Tailor Shop', 'Salon', 'Pharmacy', 'Motorbike Repair', 'Hardware', 'Food Vendor', 'Church', 'Cobbler', 'Mobile Money Agent']",mid,high
+user_104,"['Car Wash', 'Electronics Store', 'Pharmacy', 'Motorbike Repair', 'Cobbler', 'Food Vendor', 'Hardware Kiosk', 'Church']",budget,high
+user_105,"['Cobbler', 'Hardware', 'Pharmacy', 'Barbershop', 'Salon', 'General Shop', 'Hardware Kiosk', 'Bakery', 'Church', 'Mobile Money Agent', 'Motorbike Repair', 'Electronics Store']",budget,medium
+user_106,"['Pharmacy', 'Church', 'General Shop', 'Salon', 'Bakery', 'Hardware Kiosk', 'Car Wash', 'Tailor Shop', 'Barbershop', 'Food Vendor', 'Cobbler', 'Electronics Store']",premium,low
+user_107,"['Food Vendor', 'Tailor Shop', 'Car Wash', 'Cobbler', 'Hardware', 'General Shop', 'Salon', 'Motorbike Repair', 'Hardware Kiosk', 'Pharmacy']",budget,medium
+user_108,"['Electronics Store', 'Food Vendor', 'Pharmacy', 'Hardware', 'Car Wash', 'Motorbike Repair', 'Barbershop', 'Cobbler', 'Tailor Shop', 'Church']",mid,medium
+user_109,"['Hardware Kiosk', 'Motorbike Repair', 'Bakery', 'Cobbler', 'Pharmacy', 'Church', 'Food Vendor', 'Tailor Shop', 'Electronics Store', 'Salon', 'Car Wash']",budget,high
+user_110,"['Cobbler', 'Salon', 'Barbershop', 'Motorbike Repair', 'Car Wash', 'Mobile Money Agent', 'General Shop', 'Food Vendor', 'Tailor Shop', 'Church']",budget,medium
+user_111,"['Church', 'Bakery', 'Mobile Money Agent', 'General Shop', 'Tailor Shop', 'Car Wash', 'Hardware Kiosk', 'Cobbler']",mid,medium
+user_112,"['Bakery', 'Car Wash', 'Tailor Shop', 'Church', 'Barbershop', 'Hardware', 'Mobile Money Agent', 'General Shop', 'Salon', 'Food Vendor']",premium,low
+user_113,"['Food Vendor', 'Car Wash', 'Motorbike Repair', 'Church', 'Hardware', 'General Shop', 'Mobile Money Agent', 'Hardware Kiosk', 'Electronics Store', 'Tailor Shop', 'Barbershop', 'Pharmacy']",budget,medium
+user_114,"['Food Vendor', 'Car Wash', 'Mobile Money Agent', 'Motorbike Repair', 'Pharmacy', 'Electronics Store', 'Salon', 'Tailor Shop']",budget,high
+user_115,"['Hardware', 'Bakery', 'Hardware Kiosk', 'Barbershop', 'Food Vendor', 'Tailor Shop', 'Electronics Store', 'Mobile Money Agent', 'General Shop', 'Salon', 'Car Wash']",budget,medium
+user_116,"['Barbershop', 'Salon', 'Church', 'Hardware Kiosk', 'Cobbler', 'Tailor Shop', 'Food Vendor', 'Electronics Store', 'General Shop', 'Bakery', 'Motorbike Repair', 'Pharmacy']",mid,high
+user_117,"['Mobile Money Agent', 'Barbershop', 'Car Wash', 'Electronics Store', 'Bakery', 'Salon', 'Motorbike Repair', 'Pharmacy', 'Tailor Shop', 'General Shop']",budget,high
+user_118,"['Mobile Money Agent', 'General Shop', 'Car Wash', 'Pharmacy', 'Salon', 'Church', 'Cobbler', 'Hardware']",premium,high
+user_119,"['Cobbler', 'Tailor Shop', 'General Shop', 'Hardware Kiosk', 'Barbershop', 'Food Vendor', 'Pharmacy', 'Bakery', 'Hardware', 'Salon', 'Electronics Store']",budget,high
+user_120,"['Barbershop', 'Car Wash', 'Salon', 'Cobbler', 'General Shop', 'Mobile Money Agent', 'Hardware Kiosk', 'Pharmacy']",budget,low
+user_121,"['Bakery', 'Cobbler', 'Tailor Shop', 'Hardware', 'Salon', 'Electronics Store', 'Food Vendor', 'Church', 'Pharmacy', 'General Shop', 'Mobile Money Agent']",budget,medium
+user_122,"['Bakery', 'Electronics Store', 'Church', 'General Shop', 'Salon', 'Tailor Shop', 'Pharmacy', 'Hardware Kiosk', 'Food Vendor', 'Cobbler', 'Motorbike Repair']",mid,medium
+user_123,"['Car Wash', 'Electronics Store', 'Pharmacy', 'Mobile Money Agent', 'Tailor Shop', 'Church', 'Motorbike Repair', 'Salon', 'Barbershop', 'Cobbler']",premium,medium
+user_124,"['Church', 'Electronics Store', 'Barbershop', 'Food Vendor', 'Mobile Money Agent', 'Pharmacy', 'Hardware Kiosk', 'Hardware']",premium,high
+user_125,"['Pharmacy', 'Bakery', 'Barbershop', 'Electronics Store', 'Hardware Kiosk', 'Tailor Shop', 'Hardware', 'Mobile Money Agent']",budget,medium
+user_126,"['Church', 'Barbershop', 'Hardware Kiosk', 'Car Wash', 'General Shop', 'Bakery', 'Food Vendor', 'Mobile Money Agent', 'Salon']",budget,medium
+user_127,"['General Shop', 'Bakery', 'Electronics Store', 'Hardware', 'Church', 'Pharmacy', 'Car Wash', 'Tailor Shop', 'Cobbler', 'Hardware Kiosk', 'Food Vendor']",budget,medium
+user_128,"['Church', 'Hardware Kiosk', 'Car Wash', 'Cobbler', 'Pharmacy', 'Salon', 'Motorbike Repair', 'Food Vendor']",budget,medium
+user_129,"['Cobbler', 'Car Wash', 'Bakery', 'Barbershop', 'Hardware', 'Salon', 'Hardware Kiosk', 'Pharmacy', 'Electronics Store', 'Church', 'Motorbike Repair', 'Tailor Shop']",mid,medium
+user_130,"['Motorbike Repair', 'Bakery', 'Car Wash', 'Electronics Store', 'Tailor Shop', 'Barbershop', 'Church', 'Hardware Kiosk', 'Hardware', 'General Shop']",budget,medium
+user_131,"['Pharmacy', 'Tailor Shop', 'Church', 'Hardware', 'Cobbler', 'Bakery', 'Motorbike Repair', 'Electronics Store', 'Barbershop']",budget,medium
+user_132,"['Cobbler', 'Barbershop', 'Bakery', 'Hardware', 'Mobile Money Agent', 'General Shop', 'Hardware Kiosk', 'Motorbike Repair', 'Pharmacy', 'Salon', 'Car Wash']",budget,low
+user_133,"['Electronics Store', 'Salon', 'Motorbike Repair', 'Mobile Money Agent', 'Tailor Shop', 'Pharmacy', 'General Shop', 'Hardware']",mid,medium
+user_134,"['General Shop', 'Bakery', 'Car Wash', 'Pharmacy', 'Cobbler', 'Mobile Money Agent', 'Motorbike Repair', 'Hardware Kiosk', 'Barbershop', 'Hardware', 'Electronics Store', 'Salon']",budget,medium
+user_135,"['Food Vendor', 'General Shop', 'Barbershop', 'Church', 'Hardware Kiosk', 'Car Wash', 'Salon', 'Cobbler', 'Mobile Money Agent', 'Tailor Shop']",budget,medium
+user_136,"['Church', 'General Shop', 'Salon', 'Tailor Shop', 'Pharmacy', 'Motorbike Repair', 'Mobile Money Agent', 'Bakery', 'Cobbler', 'Electronics Store', 'Hardware Kiosk', 'Barbershop']",premium,high
+user_137,"['Hardware Kiosk', 'Salon', 'Tailor Shop', 'Electronics Store', 'Food Vendor', 'Pharmacy', 'Bakery', 'Car Wash', 'Motorbike Repair']",budget,low
+user_138,"['Tailor Shop', 'Salon', 'Food Vendor', 'Barbershop', 'Hardware Kiosk', 'Motorbike Repair', 'Bakery', 'Pharmacy', 'Hardware', 'Cobbler', 'Mobile Money Agent', 'General Shop']",budget,medium
+user_139,"['Salon', 'Hardware', 'Church', 'Car Wash', 'Bakery', 'Mobile Money Agent', 'Tailor Shop', 'Food Vendor', 'General Shop']",budget,low
+user_140,"['Pharmacy', 'Church', 'General Shop', 'Food Vendor', 'Motorbike Repair', 'Hardware Kiosk', 'Cobbler', 'Salon']",budget,medium
+user_141,"['Hardware', 'Electronics Store', 'Pharmacy', 'Car Wash', 'General Shop', 'Barbershop', 'Mobile Money Agent', 'Bakery', 'Salon']",premium,low
+user_142,"['Hardware Kiosk', 'Pharmacy', 'Electronics Store', 'Hardware', 'General Shop', 'Car Wash', 'Barbershop', 'Food Vendor', 'Motorbike Repair']",mid,high
+user_143,"['Barbershop', 'Motorbike Repair', 'Cobbler', 'Hardware', 'Mobile Money Agent', 'Tailor Shop', 'Bakery', 'Church', 'Car Wash', 'Electronics Store', 'Pharmacy', 'Salon']",premium,high
+user_144,"['Barbershop', 'Church', 'Bakery', 'Mobile Money Agent', 'Food Vendor', 'Car Wash', 'Salon', 'Electronics Store', 'General Shop', 'Tailor Shop', 'Cobbler', 'Hardware Kiosk']",mid,high
+user_145,"['Salon', 'Motorbike Repair', 'Hardware', 'Barbershop', 'Cobbler', 'Electronics Store', 'Pharmacy', 'General Shop', 'Food Vendor', 'Mobile Money Agent', 'Church']",budget,medium
+user_146,"['Food Vendor', 'Hardware Kiosk', 'Electronics Store', 'Motorbike Repair', 'Tailor Shop', 'Mobile Money Agent', 'Cobbler', 'Barbershop', 'Pharmacy', 'Hardware']",budget,medium
+user_147,"['Barbershop', 'Hardware', 'Food Vendor', 'Motorbike Repair', 'Hardware Kiosk', 'Car Wash', 'Church', 'Salon']",mid,medium
+user_148,"['Motorbike Repair', 'Hardware', 'Salon', 'Car Wash', 'Pharmacy', 'Cobbler', 'Hardware Kiosk', 'Electronics Store', 'Food Vendor', 'Church']",budget,low
+user_149,"['Hardware', 'Electronics Store', 'Pharmacy', 'Church', 'Salon', 'Car Wash', 'Cobbler', 'General Shop']",budget,medium
+user_150,"['Cobbler', 'Tailor Shop', 'Salon', 'Barbershop', 'Car Wash', 'Food Vendor', 'Hardware', 'Electronics Store', 'Pharmacy', 'Church', 'Hardware Kiosk', 'Mobile Money Agent']",mid,low
+user_151,"['Mobile Money Agent', 'Bakery', 'Motorbike Repair', 'Barbershop', 'Cobbler', 'Car Wash', 'Church', 'Hardware', 'Food Vendor', 'Tailor Shop']",budget,low
+user_152,"['Food Vendor', 'Motorbike Repair', 'Car Wash', 'Barbershop', 'Hardware Kiosk', 'Church', 'Bakery', 'Mobile Money Agent', 'Hardware', 'General Shop']",budget,medium
+user_153,"['Barbershop', 'Hardware Kiosk', 'Food Vendor', 'Electronics Store', 'General Shop', 'Hardware', 'Church', 'Car Wash', 'Tailor Shop']",premium,low
+user_154,"['Car Wash', 'Food Vendor', 'Hardware', 'Barbershop', 'Hardware Kiosk', 'Cobbler', 'General Shop', 'Bakery', 'Motorbike Repair']",mid,low
+user_155,"['Food Vendor', 'Motorbike Repair', 'Salon', 'Pharmacy', 'Bakery', 'Hardware', 'Tailor Shop', 'Church', 'General Shop', 'Mobile Money Agent']",budget,low
+user_156,"['Hardware', 'Mobile Money Agent', 'Hardware Kiosk', 'Church', 'Cobbler', 'Pharmacy', 'Tailor Shop', 'General Shop', 'Salon', 'Motorbike Repair', 'Car Wash']",mid,medium
+user_157,"['Mobile Money Agent', 'Cobbler', 'Food Vendor', 'Electronics Store', 'Car Wash', 'Motorbike Repair', 'Hardware Kiosk', 'General Shop', 'Barbershop', 'Pharmacy', 'Church']",budget,low
+user_158,"['Electronics Store', 'Bakery', 'General Shop', 'Mobile Money Agent', 'Pharmacy', 'Cobbler', 'Food Vendor', 'Barbershop', 'Salon', 'Hardware', 'Hardware Kiosk', 'Tailor Shop']",budget,medium
+user_159,"['Food Vendor', 'Car Wash', 'Cobbler', 'Electronics Store', 'Pharmacy', 'Mobile Money Agent', 'Bakery', 'Hardware', 'Tailor Shop']",budget,high
+user_160,"['Hardware', 'General Shop', 'Mobile Money Agent', 'Cobbler', 'Salon', 'Pharmacy', 'Food Vendor', 'Hardware Kiosk', 'Tailor Shop', 'Car Wash']",premium,high
+user_161,"['Pharmacy', 'Cobbler', 'Salon', 'Barbershop', 'Bakery', 'Hardware', 'Electronics Store', 'General Shop']",premium,medium
+user_162,"['Barbershop', 'Hardware Kiosk', 'Hardware', 'Bakery', 'Mobile Money Agent', 'Salon', 'Food Vendor', 'Tailor Shop', 'Car Wash', 'General Shop', 'Pharmacy', 'Cobbler']",premium,medium
+user_163,"['Barbershop', 'Salon', 'Food Vendor', 'Church', 'Motorbike Repair', 'Pharmacy', 'Mobile Money Agent', 'Hardware Kiosk', 'Electronics Store', 'Bakery', 'Tailor Shop']",budget,medium
+user_164,"['Car Wash', 'Cobbler', 'Bakery', 'Food Vendor', 'Tailor Shop', 'Barbershop', 'Church', 'Salon', 'Motorbike Repair']",premium,medium
+user_165,"['Food Vendor', 'Hardware', 'Bakery', 'General Shop', 'Cobbler', 'Motorbike Repair', 'Church', 'Barbershop', 'Car Wash']",budget,high
+user_166,"['Barbershop', 'Salon', 'Bakery', 'Food Vendor', 'Mobile Money Agent', 'Hardware Kiosk', 'Cobbler', 'Car Wash']",budget,low
+user_167,"['Bakery', 'Food Vendor', 'Hardware Kiosk', 'Tailor Shop', 'Hardware', 'Car Wash', 'Cobbler', 'Electronics Store', 'Barbershop', 'Church']",budget,low
+user_168,"['Food Vendor', 'Car Wash', 'Hardware Kiosk', 'Bakery', 'Hardware', 'Mobile Money Agent', 'Pharmacy', 'Salon', 'Church', 'Barbershop', 'Cobbler']",premium,high
+user_169,"['Hardware Kiosk', 'Food Vendor', 'Tailor Shop', 'Hardware', 'Cobbler', 'Salon', 'Pharmacy', 'Mobile Money Agent']",premium,medium
+user_170,"['Bakery', 'Mobile Money Agent', 'Hardware Kiosk', 'Barbershop', 'Motorbike Repair', 'Pharmacy', 'General Shop', 'Church', 'Salon', 'Food Vendor', 'Tailor Shop']",budget,medium
+user_171,"['Hardware', 'Salon', 'Pharmacy', 'Barbershop', 'Cobbler', 'Church', 'Car Wash', 'Mobile Money Agent', 'Food Vendor', 'Hardware Kiosk', 'Bakery', 'General Shop']",budget,low
+user_172,"['Car Wash', 'Barbershop', 'Food Vendor', 'Hardware Kiosk', 'Motorbike Repair', 'Electronics Store', 'Cobbler', 'Hardware']",premium,low
+user_173,"['Church', 'Mobile Money Agent', 'Cobbler', 'Electronics Store', 'Pharmacy', 'General Shop', 'Hardware Kiosk', 'Food Vendor', 'Salon', 'Car Wash', 'Bakery']",budget,medium
+user_174,"['Motorbike Repair', 'Electronics Store', 'Hardware', 'Food Vendor', 'Bakery', 'Hardware Kiosk', 'Salon', 'Barbershop', 'General Shop', 'Pharmacy']",budget,high
+user_175,"['General Shop', 'Pharmacy', 'Cobbler', 'Bakery', 'Electronics Store', 'Mobile Money Agent', 'Barbershop', 'Church', 'Car Wash', 'Motorbike Repair', 'Hardware', 'Tailor Shop']",mid,low
+user_176,"['Mobile Money Agent', 'Car Wash', 'Hardware', 'Electronics Store', 'Cobbler', 'Barbershop', 'Salon', 'Bakery']",mid,medium
+user_177,"['Tailor Shop', 'Hardware Kiosk', 'Food Vendor', 'Salon', 'Pharmacy', 'General Shop', 'Mobile Money Agent', 'Electronics Store']",mid,medium
+user_178,"['Tailor Shop', 'Food Vendor', 'Electronics Store', 'Salon', 'Hardware', 'Bakery', 'General Shop', 'Mobile Money Agent']",budget,medium
+user_179,"['Tailor Shop', 'General Shop', 'Car Wash', 'Bakery', 'Cobbler', 'Hardware', 'Electronics Store', 'Salon', 'Food Vendor', 'Church', 'Hardware Kiosk', 'Pharmacy']",premium,medium
+user_180,"['Mobile Money Agent', 'Hardware', 'Car Wash', 'General Shop', 'Barbershop', 'Pharmacy', 'Bakery', 'Hardware Kiosk', 'Church']",budget,high
+user_181,"['Car Wash', 'Bakery', 'Church', 'Salon', 'General Shop', 'Food Vendor', 'Pharmacy', 'Tailor Shop', 'Mobile Money Agent', 'Motorbike Repair']",mid,medium
+user_182,"['Pharmacy', 'Salon', 'Food Vendor', 'Hardware Kiosk', 'Bakery', 'Car Wash', 'General Shop', 'Cobbler', 'Barbershop', 'Motorbike Repair', 'Electronics Store', 'Tailor Shop']",budget,high
+user_183,"['Hardware Kiosk', 'Salon', 'Mobile Money Agent', 'General Shop', 'Church', 'Bakery', 'Hardware', 'Cobbler']",mid,low
+user_184,"['Mobile Money Agent', 'General Shop', 'Motorbike Repair', 'Tailor Shop', 'Hardware', 'Church', 'Salon', 'Electronics Store']",mid,low
+user_185,"['Hardware', 'Electronics Store', 'General Shop', 'Car Wash', 'Motorbike Repair', 'Mobile Money Agent', 'Bakery', 'Hardware Kiosk', 'Cobbler']",budget,high
+user_186,"['Pharmacy', 'Mobile Money Agent', 'Church', 'Electronics Store', 'Hardware Kiosk', 'Car Wash', 'General Shop', 'Motorbike Repair', 'Bakery', 'Food Vendor', 'Hardware']",mid,high
+user_187,"['Hardware Kiosk', 'Motorbike Repair', 'Cobbler', 'Church', 'General Shop', 'Barbershop', 'Salon', 'Bakery', 'Food Vendor', 'Electronics Store']",budget,medium
+user_188,"['Cobbler', 'Tailor Shop', 'Bakery', 'Church', 'Salon', 'Motorbike Repair', 'Mobile Money Agent', 'Barbershop', 'Hardware Kiosk', 'Food Vendor', 'Pharmacy', 'Hardware']",budget,high
+user_189,"['Church', 'Pharmacy', 'Food Vendor', 'Tailor Shop', 'Salon', 'Cobbler', 'Bakery', 'Car Wash', 'Motorbike Repair', 'Mobile Money Agent']",budget,medium
+user_190,"['Barbershop', 'Food Vendor', 'General Shop', 'Cobbler', 'Mobile Money Agent', 'Hardware Kiosk', 'Pharmacy', 'Motorbike Repair', 'Tailor Shop', 'Car Wash', 'Salon']",budget,high
+user_191,"['Electronics Store', 'Food Vendor', 'Hardware', 'Hardware Kiosk', 'Tailor Shop', 'Car Wash', 'Church', 'Salon', 'Motorbike Repair', 'Cobbler']",premium,medium
+user_192,"['Electronics Store', 'Cobbler', 'Barbershop', 'Hardware Kiosk', 'Tailor Shop', 'Salon', 'Bakery', 'Motorbike Repair', 'Food Vendor', 'Church', 'Mobile Money Agent']",budget,high
+user_193,"['Motorbike Repair', 'Car Wash', 'Cobbler', 'Electronics Store', 'Pharmacy', 'Salon', 'Hardware Kiosk', 'Bakery', 'Hardware', 'Mobile Money Agent']",budget,low
+user_194,"['Pharmacy', 'Tailor Shop', 'Salon', 'Church', 'Cobbler', 'Bakery', 'Hardware Kiosk', 'Barbershop', 'Hardware', 'Motorbike Repair', 'Electronics Store', 'Food Vendor']",budget,medium
+user_195,"['Motorbike Repair', 'Tailor Shop', 'Bakery', 'Food Vendor', 'General Shop', 'Mobile Money Agent', 'Pharmacy', 'Salon', 'Electronics Store', 'Hardware Kiosk', 'Car Wash']",budget,high
+user_196,"['Church', 'Hardware', 'Car Wash', 'Food Vendor', 'Tailor Shop', 'Cobbler', 'General Shop', 'Motorbike Repair', 'Pharmacy']",budget,high
+user_197,"['Electronics Store', 'General Shop', 'Cobbler', 'Food Vendor', 'Motorbike Repair', 'Mobile Money Agent', 'Tailor Shop', 'Church', 'Pharmacy', 'Car Wash', 'Hardware Kiosk']",budget,low
+user_198,"['Salon', 'Pharmacy', 'Barbershop', 'Hardware', 'Tailor Shop', 'Food Vendor', 'Electronics Store', 'Car Wash', 'Motorbike Repair', 'Church', 'Mobile Money Agent']",budget,medium
+user_199,"['Tailor Shop', 'Bakery', 'General Shop', 'Motorbike Repair', 'Electronics Store', 'Food Vendor', 'Mobile Money Agent', 'Hardware Kiosk', 'Church', 'Hardware', 'Salon']",premium,low
+user_200,"['Food Vendor', 'Salon', 'Church', 'Barbershop', 'Pharmacy', 'Motorbike Repair', 'Hardware', 'Electronics Store', 'Mobile Money Agent', 'General Shop', 'Tailor Shop', 'Car Wash']",budget,high
+user_201,"['Mobile Money Agent', 'Motorbike Repair', 'General Shop', 'Food Vendor', 'Barbershop', 'Electronics Store', 'Church', 'Hardware', 'Tailor Shop', 'Salon']",mid,high
+user_202,"['Pharmacy', 'Salon', 'Hardware Kiosk', 'Church', 'Car Wash', 'Cobbler', 'Mobile Money Agent', 'Electronics Store', 'Bakery']",budget,high
+user_203,"['Hardware', 'Church', 'Car Wash', 'Tailor Shop', 'Salon', 'Bakery', 'Motorbike Repair', 'Pharmacy', 'Barbershop', 'Hardware Kiosk']",budget,high
+user_204,"['Hardware', 'Electronics Store', 'Hardware Kiosk', 'Pharmacy', 'Salon', 'Tailor Shop', 'Church', 'Motorbike Repair', 'Food Vendor', 'Bakery']",budget,medium
+user_205,"['Bakery', 'Church', 'Salon', 'Car Wash', 'Electronics Store', 'Motorbike Repair', 'Food Vendor', 'Hardware Kiosk', 'Tailor Shop']",mid,high
+user_206,"['General Shop', 'Barbershop', 'Bakery', 'Church', 'Pharmacy', 'Food Vendor', 'Car Wash', 'Mobile Money Agent', 'Cobbler', 'Electronics Store', 'Tailor Shop', 'Motorbike Repair']",mid,high
+user_207,"['Tailor Shop', 'Bakery', 'Motorbike Repair', 'Car Wash', 'Hardware', 'Mobile Money Agent', 'Barbershop', 'Cobbler', 'Hardware Kiosk', 'Electronics Store', 'Pharmacy', 'Salon']",mid,medium
+user_208,"['Motorbike Repair', 'Food Vendor', 'Church', 'Car Wash', 'Electronics Store', 'Cobbler', 'Bakery', 'Hardware', 'Tailor Shop']",budget,medium
+user_209,"['Hardware', 'Salon', 'Pharmacy', 'Food Vendor', 'General Shop', 'Motorbike Repair', 'Hardware Kiosk', 'Bakery', 'Barbershop', 'Car Wash', 'Electronics Store']",budget,high
+user_210,"['Barbershop', 'Hardware', 'Food Vendor', 'Tailor Shop', 'Hardware Kiosk', 'Car Wash', 'Electronics Store', 'Pharmacy']",budget,medium
+user_211,"['Church', 'Bakery', 'Motorbike Repair', 'Salon', 'Cobbler', 'Barbershop', 'Hardware', 'Mobile Money Agent']",mid,medium
+user_212,"['Food Vendor', 'Car Wash', 'Salon', 'Electronics Store', 'Tailor Shop', 'Hardware Kiosk', 'Mobile Money Agent', 'Church', 'General Shop', 'Cobbler']",mid,low
+user_213,"['Cobbler', 'Hardware', 'Church', 'Bakery', 'Pharmacy', 'Hardware Kiosk', 'Food Vendor', 'Motorbike Repair']",budget,high
+user_214,"['Food Vendor', 'Car Wash', 'Mobile Money Agent', 'Hardware Kiosk', 'Tailor Shop', 'Bakery', 'Pharmacy', 'Church', 'Hardware']",premium,high
+user_215,"['Food Vendor', 'Salon', 'Hardware Kiosk', 'Church', 'Car Wash', 'Cobbler', 'General Shop', 'Motorbike Repair', 'Electronics Store', 'Mobile Money Agent']",premium,high
+user_216,"['Bakery', 'Mobile Money Agent', 'Hardware Kiosk', 'Car Wash', 'Motorbike Repair', 'Food Vendor', 'Tailor Shop', 'Barbershop', 'Electronics Store', 'Salon', 'General Shop']",mid,low
+user_217,"['General Shop', 'Pharmacy', 'Bakery', 'Mobile Money Agent', 'Hardware', 'Hardware Kiosk', 'Food Vendor', 'Cobbler', 'Tailor Shop']",budget,low
+user_218,"['Pharmacy', 'Mobile Money Agent', 'Cobbler', 'Hardware Kiosk', 'Bakery', 'Motorbike Repair', 'Electronics Store', 'General Shop', 'Tailor Shop', 'Hardware']",budget,medium
+user_219,"['Motorbike Repair', 'Pharmacy', 'Cobbler', 'General Shop', 'Salon', 'Church', 'Tailor Shop', 'Bakery', 'Hardware', 'Mobile Money Agent']",premium,low
+user_220,"['Church', 'Electronics Store', 'Food Vendor', 'Motorbike Repair', 'Tailor Shop', 'Hardware', 'Barbershop', 'Bakery']",budget,high
+user_221,"['Church', 'Car Wash', 'Salon', 'Motorbike Repair', 'Bakery', 'Cobbler', 'Electronics Store', 'Pharmacy', 'Mobile Money Agent', 'Food Vendor', 'Hardware Kiosk']",budget,medium
+user_222,"['Car Wash', 'Barbershop', 'General Shop', 'Motorbike Repair', 'Pharmacy', 'Salon', 'Hardware Kiosk', 'Hardware']",mid,high
+user_223,"['Hardware', 'Cobbler', 'Car Wash', 'General Shop', 'Electronics Store', 'Food Vendor', 'Hardware Kiosk', 'Mobile Money Agent']",budget,low
+user_224,"['Salon', 'Pharmacy', 'Car Wash', 'Hardware', 'Mobile Money Agent', 'General Shop', 'Motorbike Repair', 'Cobbler', 'Tailor Shop', 'Electronics Store', 'Barbershop']",mid,high
+user_225,"['General Shop', 'Cobbler', 'Mobile Money Agent', 'Tailor Shop', 'Car Wash', 'Salon', 'Barbershop', 'Hardware Kiosk', 'Food Vendor']",premium,high
+user_226,"['Electronics Store', 'Tailor Shop', 'Salon', 'Pharmacy', 'Church', 'Motorbike Repair', 'Car Wash', 'Cobbler']",budget,high
+user_227,"['Car Wash', 'Hardware Kiosk', 'Electronics Store', 'Tailor Shop', 'Bakery', 'Barbershop', 'Cobbler', 'Mobile Money Agent', 'General Shop', 'Pharmacy']",premium,medium
+user_228,"['Electronics Store', 'Tailor Shop', 'Mobile Money Agent', 'Food Vendor', 'Church', 'Hardware', 'Car Wash', 'Barbershop']",budget,low
+user_229,"['Car Wash', 'Food Vendor', 'General Shop', 'Motorbike Repair', 'Salon', 'Mobile Money Agent', 'Bakery', 'Tailor Shop', 'Hardware', 'Barbershop', 'Hardware Kiosk', 'Pharmacy']",budget,medium
+user_230,"['Barbershop', 'Cobbler', 'Salon', 'Electronics Store', 'Motorbike Repair', 'Bakery', 'Mobile Money Agent', 'Church']",mid,medium
+user_231,"['Electronics Store', 'Pharmacy', 'Salon', 'General Shop', 'Tailor Shop', 'Church', 'Mobile Money Agent', 'Bakery', 'Barbershop', 'Cobbler']",budget,medium
+user_232,"['Hardware Kiosk', 'Bakery', 'Cobbler', 'General Shop', 'Barbershop', 'Car Wash', 'Salon', 'Food Vendor']",budget,low
+user_233,"['Hardware Kiosk', 'General Shop', 'Cobbler', 'Car Wash', 'Tailor Shop', 'Mobile Money Agent', 'Pharmacy', 'Food Vendor', 'Electronics Store', 'Salon', 'Hardware', 'Bakery']",budget,medium
+user_234,"['Pharmacy', 'Food Vendor', 'Bakery', 'General Shop', 'Salon', 'Electronics Store', 'Hardware', 'Car Wash', 'Barbershop']",budget,low
+user_235,"['Electronics Store', 'Hardware', 'Cobbler', 'Motorbike Repair', 'General Shop', 'Pharmacy', 'Hardware Kiosk', 'Food Vendor', 'Salon', 'Church', 'Car Wash']",budget,high
+user_236,"['Hardware', 'Mobile Money Agent', 'Hardware Kiosk', 'Tailor Shop', 'Salon', 'Bakery', 'General Shop', 'Barbershop', 'Church', 'Car Wash', 'Motorbike Repair']",premium,low
+user_237,"['Food Vendor', 'Hardware Kiosk', 'Car Wash', 'Motorbike Repair', 'Bakery', 'Church', 'Hardware', 'General Shop', 'Pharmacy', 'Barbershop']",mid,medium
+user_238,"['Bakery', 'Salon', 'Barbershop', 'Car Wash', 'Pharmacy', 'Motorbike Repair', 'Hardware Kiosk', 'Tailor Shop', 'Mobile Money Agent', 'Cobbler', 'Hardware', 'Food Vendor']",mid,high
+user_239,"['Salon', 'Car Wash', 'Motorbike Repair', 'Cobbler', 'Church', 'Barbershop', 'Electronics Store', 'Bakery', 'Hardware', 'Tailor Shop', 'General Shop']",budget,medium
+user_240,"['Hardware', 'General Shop', 'Bakery', 'Cobbler', 'Electronics Store', 'Barbershop', 'Hardware Kiosk', 'Car Wash']",budget,low
+user_241,"['Hardware', 'Cobbler', 'Hardware Kiosk', 'Pharmacy', 'Car Wash', 'Barbershop', 'Motorbike Repair', 'Church', 'Salon', 'Electronics Store']",mid,high
+user_242,"['Pharmacy', 'Cobbler', 'Car Wash', 'Mobile Money Agent', 'Hardware Kiosk', 'Hardware', 'Food Vendor', 'Tailor Shop', 'Electronics Store', 'Church', 'General Shop']",budget,medium
+user_243,"['Bakery', 'Church', 'Pharmacy', 'Tailor Shop', 'Hardware', 'Hardware Kiosk', 'Cobbler', 'Mobile Money Agent', 'Car Wash', 'General Shop']",budget,medium
+user_244,"['Tailor Shop', 'Food Vendor', 'General Shop', 'Hardware', 'Barbershop', 'Bakery', 'Hardware Kiosk', 'Car Wash', 'Electronics Store', 'Motorbike Repair']",mid,high
+user_245,"['Bakery', 'Car Wash', 'Motorbike Repair', 'Cobbler', 'Tailor Shop', 'Salon', 'Electronics Store', 'Food Vendor']",budget,high
+user_246,"['Cobbler', 'Pharmacy', 'Food Vendor', 'Car Wash', 'Motorbike Repair', 'Hardware Kiosk', 'Mobile Money Agent', 'Barbershop', 'Electronics Store', 'Bakery', 'Hardware', 'General Shop']",budget,high
+user_247,"['Pharmacy', 'Barbershop', 'Car Wash', 'Food Vendor', 'Hardware', 'Bakery', 'Church', 'Mobile Money Agent', 'Electronics Store', 'Hardware Kiosk']",premium,medium
+user_248,"['Motorbike Repair', 'Food Vendor', 'Church', 'Car Wash', 'Salon', 'Barbershop', 'Electronics Store', 'Cobbler', 'Bakery', 'Pharmacy', 'Hardware Kiosk', 'Tailor Shop']",mid,high
+user_249,"['Tailor Shop', 'Pharmacy', 'Hardware', 'Car Wash', 'General Shop', 'Hardware Kiosk', 'Cobbler', 'Mobile Money Agent', 'Motorbike Repair', 'Salon']",premium,medium
+user_250,"['Hardware', 'Tailor Shop', 'Bakery', 'Salon', 'Hardware Kiosk', 'Pharmacy', 'Food Vendor', 'Mobile Money Agent', 'Motorbike Repair']",budget,medium
+user_251,"['Electronics Store', 'Mobile Money Agent', 'Hardware', 'Cobbler', 'Church', 'Salon', 'Barbershop', 'Car Wash', 'General Shop', 'Bakery']",premium,medium
+user_252,"['Electronics Store', 'Cobbler', 'Tailor Shop', 'Pharmacy', 'General Shop', 'Car Wash', 'Hardware', 'Hardware Kiosk']",budget,medium
+user_253,"['Barbershop', 'Salon', 'Bakery', 'Food Vendor', 'Electronics Store', 'Hardware', 'Motorbike Repair', 'Church', 'Cobbler', 'Pharmacy']",budget,medium
+user_254,"['Hardware', 'Pharmacy', 'General Shop', 'Bakery', 'Tailor Shop', 'Electronics Store', 'Food Vendor', 'Church', 'Car Wash', 'Barbershop']",premium,medium
+user_255,"['Pharmacy', 'Church', 'Cobbler', 'Electronics Store', 'Barbershop', 'Hardware', 'Salon', 'Food Vendor', 'Tailor Shop', 'Car Wash', 'Hardware Kiosk', 'Mobile Money Agent']",budget,medium
+user_256,"['Food Vendor', 'Tailor Shop', 'Church', 'Barbershop', 'Car Wash', 'Pharmacy', 'Electronics Store', 'Hardware Kiosk', 'Cobbler']",budget,low
+user_257,"['Hardware Kiosk', 'General Shop', 'Food Vendor', 'Salon', 'Pharmacy', 'Cobbler', 'Motorbike Repair', 'Bakery', 'Church', 'Barbershop', 'Mobile Money Agent', 'Car Wash']",mid,high
+user_258,"['Barbershop', 'Tailor Shop', 'Cobbler', 'Salon', 'Pharmacy', 'Electronics Store', 'Hardware', 'General Shop', 'Car Wash', 'Motorbike Repair', 'Bakery', 'Food Vendor']",budget,medium
+user_259,"['Tailor Shop', 'Food Vendor', 'Car Wash', 'Hardware', 'Cobbler', 'Pharmacy', 'General Shop', 'Barbershop']",mid,high
+user_260,"['Electronics Store', 'Barbershop', 'Car Wash', 'Motorbike Repair', 'Cobbler', 'Pharmacy', 'Bakery', 'Tailor Shop', 'Salon']",budget,medium
+user_261,"['General Shop', 'Barbershop', 'Electronics Store', 'Car Wash', 'Motorbike Repair', 'Hardware', 'Church', 'Food Vendor', 'Bakery', 'Hardware Kiosk']",premium,high
+user_262,"['Electronics Store', 'General Shop', 'Hardware', 'Church', 'Hardware Kiosk', 'Car Wash', 'Barbershop', 'Motorbike Repair', 'Mobile Money Agent', 'Cobbler']",mid,medium
+user_263,"['Hardware Kiosk', 'Electronics Store', 'Motorbike Repair', 'Bakery', 'Pharmacy', 'Cobbler', 'Hardware', 'Mobile Money Agent']",budget,low
+user_264,"['Tailor Shop', 'General Shop', 'Motorbike Repair', 'Bakery', 'Hardware', 'Church', 'Cobbler', 'Electronics Store', 'Pharmacy']",premium,medium
+user_265,"['Cobbler', 'Electronics Store', 'Car Wash', 'Hardware', 'Pharmacy', 'Food Vendor', 'Motorbike Repair', 'Mobile Money Agent', 'Hardware Kiosk', 'Bakery', 'Salon']",budget,medium
+user_266,"['Hardware Kiosk', 'Tailor Shop', 'Salon', 'General Shop', 'Motorbike Repair', 'Bakery', 'Food Vendor', 'Pharmacy']",premium,medium
+user_267,"['General Shop', 'Hardware Kiosk', 'Mobile Money Agent', 'Bakery', 'Pharmacy', 'Hardware', 'Car Wash', 'Tailor Shop', 'Salon']",mid,medium
+user_268,"['Electronics Store', 'Barbershop', 'Cobbler', 'Salon', 'Tailor Shop', 'Bakery', 'Hardware', 'Pharmacy', 'Motorbike Repair', 'Food Vendor', 'Hardware Kiosk']",budget,medium
+user_269,"['Electronics Store', 'Hardware Kiosk', 'Salon', 'Church', 'Bakery', 'Barbershop', 'Cobbler', 'Hardware', 'Pharmacy', 'General Shop', 'Food Vendor', 'Tailor Shop']",budget,medium
+user_270,"['Hardware Kiosk', 'Food Vendor', 'Bakery', 'Pharmacy', 'Barbershop', 'General Shop', 'Electronics Store', 'Cobbler', 'Car Wash', 'Salon', 'Church']",mid,medium
+user_271,"['Tailor Shop', 'Electronics Store', 'Hardware Kiosk', 'Hardware', 'Bakery', 'General Shop', 'Food Vendor', 'Car Wash', 'Salon', 'Cobbler']",premium,low
+user_272,"['Food Vendor', 'Barbershop', 'Tailor Shop', 'Church', 'Motorbike Repair', 'Mobile Money Agent', 'Electronics Store', 'Hardware']",budget,high
+user_273,"['Hardware Kiosk', 'Motorbike Repair', 'Salon', 'Pharmacy', 'Mobile Money Agent', 'General Shop', 'Church', 'Food Vendor']",budget,high
+user_274,"['Tailor Shop', 'Food Vendor', 'Barbershop', 'Hardware Kiosk', 'Cobbler', 'Electronics Store', 'Motorbike Repair', 'Car Wash', 'Salon', 'Hardware', 'General Shop']",budget,high
+user_275,"['Hardware Kiosk', 'Bakery', 'Tailor Shop', 'Mobile Money Agent', 'Salon', 'General Shop', 'Church', 'Motorbike Repair']",budget,medium
+user_276,"['General Shop', 'Motorbike Repair', 'Cobbler', 'Car Wash', 'Hardware Kiosk', 'Tailor Shop', 'Mobile Money Agent', 'Food Vendor']",mid,high
+user_277,"['Motorbike Repair', 'Food Vendor', 'Car Wash', 'Salon', 'Mobile Money Agent', 'Tailor Shop', 'Pharmacy', 'Electronics Store', 'General Shop', 'Barbershop', 'Cobbler']",budget,medium
+user_278,"['Car Wash', 'Mobile Money Agent', 'Motorbike Repair', 'Church', 'Pharmacy', 'Barbershop', 'Food Vendor', 'General Shop']",premium,medium
+user_279,"['Mobile Money Agent', 'Salon', 'Electronics Store', 'Car Wash', 'Tailor Shop', 'Bakery', 'Motorbike Repair', 'Food Vendor', 'Church', 'Hardware', 'Hardware Kiosk']",budget,high
+user_280,"['Car Wash', 'Tailor Shop', 'Pharmacy', 'Church', 'Cobbler', 'Barbershop', 'Food Vendor', 'Salon', 'Hardware Kiosk', 'Hardware', 'General Shop']",mid,low
+user_281,"['Pharmacy', 'Motorbike Repair', 'Barbershop', 'Bakery', 'Mobile Money Agent', 'Food Vendor', 'Tailor Shop', 'Car Wash', 'Cobbler', 'Church', 'Electronics Store']",budget,high
+user_282,"['Bakery', 'Tailor Shop', 'Electronics Store', 'Car Wash', 'Church', 'Hardware Kiosk', 'Barbershop', 'Pharmacy', 'Cobbler']",budget,high
+user_283,"['Pharmacy', 'Cobbler', 'Motorbike Repair', 'Church', 'Tailor Shop', 'General Shop', 'Hardware', 'Food Vendor', 'Hardware Kiosk']",budget,medium
+user_284,"['Motorbike Repair', 'Barbershop', 'Pharmacy', 'Bakery', 'Church', 'Mobile Money Agent', 'Salon', 'Food Vendor']",budget,high
+user_285,"['Hardware', 'Pharmacy', 'Cobbler', 'Mobile Money Agent', 'Car Wash', 'General Shop', 'Tailor Shop', 'Barbershop', 'Bakery', 'Church']",budget,medium
+user_286,"['Pharmacy', 'Barbershop', 'General Shop', 'Hardware Kiosk', 'Hardware', 'Mobile Money Agent', 'Food Vendor', 'Car Wash', 'Tailor Shop', 'Salon', 'Bakery']",budget,low
+user_287,"['Cobbler', 'Car Wash', 'Pharmacy', 'Electronics Store', 'Mobile Money Agent', 'General Shop', 'Motorbike Repair', 'Hardware Kiosk']",budget,medium
+user_288,"['Bakery', 'Food Vendor', 'Barbershop', 'Motorbike Repair', 'General Shop', 'Cobbler', 'Mobile Money Agent', 'Electronics Store', 'Church']",budget,low
+user_289,"['Church', 'Tailor Shop', 'Barbershop', 'General Shop', 'Pharmacy', 'Bakery', 'Car Wash', 'Food Vendor', 'Electronics Store', 'Hardware', 'Hardware Kiosk']",budget,medium
+user_290,"['Church', 'General Shop', 'Tailor Shop', 'Hardware Kiosk', 'Salon', 'Barbershop', 'Food Vendor', 'Mobile Money Agent', 'Bakery', 'Motorbike Repair', 'Cobbler']",mid,high
+user_291,"['Barbershop', 'Motorbike Repair', 'General Shop', 'Bakery', 'Tailor Shop', 'Mobile Money Agent', 'Hardware', 'Electronics Store', 'Food Vendor', 'Hardware Kiosk', 'Cobbler', 'Church']",budget,low
+user_292,"['Food Vendor', 'Barbershop', 'Electronics Store', 'Hardware', 'Tailor Shop', 'Hardware Kiosk', 'Bakery', 'Motorbike Repair']",mid,low
+user_293,"['Food Vendor', 'General Shop', 'Motorbike Repair', 'Hardware Kiosk', 'Electronics Store', 'Cobbler', 'Bakery', 'Tailor Shop', 'Mobile Money Agent']",budget,low
+user_294,"['Food Vendor', 'Electronics Store', 'Mobile Money Agent', 'Car Wash', 'Hardware Kiosk', 'Pharmacy', 'Bakery', 'General Shop']",budget,high
+user_295,"['Church', 'Bakery', 'Electronics Store', 'General Shop', 'Motorbike Repair', 'Mobile Money Agent', 'Food Vendor', 'Hardware', 'Car Wash', 'Salon']",budget,low
+user_296,"['Mobile Money Agent', 'Car Wash', 'Bakery', 'Barbershop', 'Electronics Store', 'Church', 'Motorbike Repair', 'Hardware Kiosk']",budget,medium
+user_297,"['Bakery', 'Salon', 'Mobile Money Agent', 'Barbershop', 'Church', 'Motorbike Repair', 'Hardware', 'Electronics Store', 'Hardware Kiosk']",mid,high
+user_298,"['Salon', 'General Shop', 'Hardware Kiosk', 'Food Vendor', 'Electronics Store', 'Bakery', 'Cobbler', 'Car Wash', 'Hardware', 'Motorbike Repair', 'Tailor Shop', 'Pharmacy']",budget,medium
+user_299,"['Salon', 'Tailor Shop', 'Church', 'Pharmacy', 'Car Wash', 'Hardware Kiosk', 'Mobile Money Agent', 'Hardware', 'Barbershop', 'Cobbler']",mid,medium
+user_300,"['Hardware', 'Cobbler', 'Mobile Money Agent', 'Food Vendor', 'Hardware Kiosk', 'Church', 'Car Wash', 'Barbershop', 'Salon', 'Pharmacy', 'Tailor Shop']",mid,high
+user_301,"['Barbershop', 'Pharmacy', 'Bakery', 'Church', 'General Shop', 'Hardware Kiosk', 'Hardware', 'Cobbler', 'Electronics Store', 'Motorbike Repair']",mid,low
+user_302,"['Church', 'Bakery', 'Mobile Money Agent', 'General Shop', 'Hardware Kiosk', 'Motorbike Repair', 'Car Wash', 'Tailor Shop', 'Barbershop']",mid,low
+user_303,"['Motorbike Repair', 'Mobile Money Agent', 'Cobbler', 'Hardware', 'Barbershop', 'Salon', 'Car Wash', 'Pharmacy', 'Tailor Shop']",budget,high
+user_304,"['Cobbler', 'Salon', 'Electronics Store', 'General Shop', 'Bakery', 'Motorbike Repair', 'Car Wash', 'Food Vendor', 'Mobile Money Agent', 'Barbershop']",mid,low
+user_305,"['Hardware Kiosk', 'Salon', 'Cobbler', 'Electronics Store', 'Motorbike Repair', 'Church', 'Tailor Shop', 'Food Vendor']",mid,low
+user_306,"['General Shop', 'Food Vendor', 'Pharmacy', 'Motorbike Repair', 'Salon', 'Hardware Kiosk', 'Bakery', 'Car Wash', 'Tailor Shop', 'Hardware', 'Electronics Store', 'Cobbler']",budget,low
+user_307,"['Electronics Store', 'Bakery', 'Tailor Shop', 'Cobbler', 'Car Wash', 'Church', 'Salon', 'Food Vendor', 'Pharmacy']",budget,medium
+user_308,"['Pharmacy', 'Car Wash', 'Hardware', 'Motorbike Repair', 'Salon', 'Tailor Shop', 'Food Vendor', 'Barbershop', 'Church']",mid,medium
+user_309,"['Pharmacy', 'Car Wash', 'Electronics Store', 'Church', 'Motorbike Repair', 'Hardware Kiosk', 'Food Vendor', 'General Shop', 'Cobbler', 'Tailor Shop']",budget,low
+user_310,"['Pharmacy', 'Cobbler', 'Food Vendor', 'Tailor Shop', 'General Shop', 'Hardware', 'Church', 'Bakery', 'Salon', 'Mobile Money Agent', 'Hardware Kiosk']",mid,medium
+user_311,"['Salon', 'Pharmacy', 'Church', 'Barbershop', 'Electronics Store', 'Food Vendor', 'Mobile Money Agent', 'Hardware Kiosk', 'Car Wash', 'Hardware', 'Cobbler', 'Tailor Shop']",mid,high
+user_312,"['Motorbike Repair', 'Mobile Money Agent', 'Barbershop', 'Pharmacy', 'Car Wash', 'Bakery', 'Tailor Shop', 'Cobbler', 'General Shop', 'Salon', 'Food Vendor', 'Church']",budget,medium
+user_313,"['Hardware Kiosk', 'Mobile Money Agent', 'Electronics Store', 'Food Vendor', 'Cobbler', 'Church', 'Hardware', 'Car Wash', 'Bakery', 'Barbershop']",budget,high
+user_314,"['Hardware', 'Barbershop', 'Electronics Store', 'Car Wash', 'Bakery', 'Salon', 'Hardware Kiosk', 'General Shop', 'Motorbike Repair', 'Church']",mid,high
+user_315,"['Hardware', 'Car Wash', 'Food Vendor', 'Barbershop', 'Cobbler', 'Bakery', 'Mobile Money Agent', 'Church', 'General Shop', 'Pharmacy', 'Salon']",budget,high
+user_316,"['Bakery', 'Pharmacy', 'Barbershop', 'Car Wash', 'Tailor Shop', 'Mobile Money Agent', 'Church', 'Food Vendor', 'Electronics Store', 'Motorbike Repair', 'Hardware']",budget,medium
+user_317,"['Cobbler', 'Church', 'Barbershop', 'Tailor Shop', 'Hardware', 'Bakery', 'Mobile Money Agent', 'Salon', 'Hardware Kiosk', 'Pharmacy', 'Motorbike Repair']",premium,high
+user_318,"['Barbershop', 'Salon', 'General Shop', 'Cobbler', 'Mobile Money Agent', 'Tailor Shop', 'Motorbike Repair', 'Car Wash', 'Hardware', 'Pharmacy', 'Church', 'Electronics Store']",premium,medium
+user_319,"['Hardware', 'Motorbike Repair', 'Hardware Kiosk', 'Salon', 'Church', 'Tailor Shop', 'Food Vendor', 'General Shop', 'Mobile Money Agent', 'Pharmacy', 'Cobbler', 'Electronics Store']",mid,medium
+user_320,"['Pharmacy', 'Car Wash', 'Hardware Kiosk', 'Barbershop', 'Food Vendor', 'Bakery', 'Hardware', 'General Shop', 'Church', 'Mobile Money Agent', 'Electronics Store']",premium,low
+user_321,"['Electronics Store', 'Pharmacy', 'Motorbike Repair', 'General Shop', 'Bakery', 'Barbershop', 'Tailor Shop', 'Hardware']",budget,high
+user_322,"['Motorbike Repair', 'Church', 'Pharmacy', 'Car Wash', 'Electronics Store', 'Barbershop', 'Hardware', 'Food Vendor']",budget,medium
+user_323,"['General Shop', 'Motorbike Repair', 'Salon', 'Mobile Money Agent', 'Tailor Shop', 'Hardware Kiosk', 'Car Wash', 'Barbershop', 'Electronics Store', 'Cobbler', 'Pharmacy', 'Food Vendor']",budget,high
+user_324,"['Food Vendor', 'Motorbike Repair', 'Pharmacy', 'Electronics Store', 'Church', 'Mobile Money Agent', 'Hardware', 'Car Wash', 'Tailor Shop', 'Bakery', 'Hardware Kiosk']",premium,medium
+user_325,"['Pharmacy', 'Bakery', 'Salon', 'General Shop', 'Cobbler', 'Food Vendor', 'Electronics Store', 'Barbershop']",premium,high
+user_326,"['Hardware', 'General Shop', 'Bakery', 'Electronics Store', 'Church', 'Cobbler', 'Food Vendor', 'Barbershop', 'Motorbike Repair']",budget,medium
+user_327,"['Hardware Kiosk', 'Electronics Store', 'General Shop', 'Motorbike Repair', 'Mobile Money Agent', 'Bakery', 'Tailor Shop', 'Salon']",premium,medium
+user_328,"['Barbershop', 'Pharmacy', 'Food Vendor', 'Motorbike Repair', 'Car Wash', 'Church', 'Mobile Money Agent', 'Salon', 'Bakery', 'Electronics Store', 'General Shop']",budget,low
+user_329,"['Cobbler', 'General Shop', 'Hardware Kiosk', 'Hardware', 'Church', 'Mobile Money Agent', 'Salon', 'Electronics Store', 'Food Vendor', 'Bakery', 'Motorbike Repair', 'Pharmacy']",budget,medium
+user_330,"['Pharmacy', 'General Shop', 'Church', 'Hardware Kiosk', 'Salon', 'Electronics Store', 'Food Vendor', 'Motorbike Repair', 'Bakery', 'Tailor Shop', 'Cobbler', 'Barbershop']",budget,medium
+user_331,"['Mobile Money Agent', 'Church', 'Cobbler', 'General Shop', 'Hardware', 'Motorbike Repair', 'Tailor Shop', 'Food Vendor', 'Pharmacy', 'Bakery', 'Salon', 'Electronics Store']",budget,high
+user_332,"['Barbershop', 'Tailor Shop', 'Church', 'Car Wash', 'Electronics Store', 'Pharmacy', 'Mobile Money Agent', 'Salon', 'Motorbike Repair', 'Bakery', 'Cobbler', 'Hardware Kiosk']",budget,medium
+user_333,"['Hardware Kiosk', 'Motorbike Repair', 'Salon', 'General Shop', 'Cobbler', 'Mobile Money Agent', 'Pharmacy', 'Barbershop', 'Car Wash', 'Electronics Store', 'Church', 'Hardware']",budget,medium
+user_334,"['Salon', 'Church', 'Motorbike Repair', 'Tailor Shop', 'Pharmacy', 'Food Vendor', 'Hardware', 'Car Wash', 'Electronics Store']",mid,medium
+user_335,"['Mobile Money Agent', 'Electronics Store', 'Bakery', 'Hardware Kiosk', 'Car Wash', 'Hardware', 'Cobbler', 'Barbershop', 'General Shop', 'Tailor Shop']",budget,low
+user_336,"['Food Vendor', 'Hardware Kiosk', 'Pharmacy', 'Electronics Store', 'Barbershop', 'Salon', 'Church', 'Bakery', 'Tailor Shop', 'Motorbike Repair', 'Mobile Money Agent', 'Car Wash']",mid,medium
+user_337,"['Electronics Store', 'Hardware Kiosk', 'Tailor Shop', 'Barbershop', 'Car Wash', 'Food Vendor', 'Pharmacy', 'Motorbike Repair']",mid,medium
+user_338,"['Hardware Kiosk', 'Mobile Money Agent', 'General Shop', 'Salon', 'Car Wash', 'Hardware', 'Cobbler', 'Pharmacy']",mid,high
+user_339,"['Tailor Shop', 'Mobile Money Agent', 'Food Vendor', 'Car Wash', 'Bakery', 'Electronics Store', 'General Shop', 'Church', 'Salon', 'Hardware Kiosk']",mid,high
+user_340,"['Car Wash', 'Cobbler', 'Motorbike Repair', 'Bakery', 'Pharmacy', 'Tailor Shop', 'Hardware', 'Food Vendor', 'Mobile Money Agent', 'Electronics Store']",budget,medium
+user_341,"['General Shop', 'Cobbler', 'Hardware', 'Electronics Store', 'Pharmacy', 'Hardware Kiosk', 'Motorbike Repair', 'Tailor Shop', 'Car Wash']",mid,high
+user_342,"['Bakery', 'Motorbike Repair', 'Pharmacy', 'Cobbler', 'Barbershop', 'Tailor Shop', 'Car Wash', 'Hardware', 'Food Vendor']",budget,medium
+user_343,"['Tailor Shop', 'Bakery', 'Electronics Store', 'General Shop', 'Hardware Kiosk', 'Food Vendor', 'Salon', 'Church', 'Car Wash', 'Mobile Money Agent', 'Pharmacy']",premium,medium
+user_344,"['Motorbike Repair', 'Bakery', 'Mobile Money Agent', 'Car Wash', 'Hardware Kiosk', 'Barbershop', 'Salon', 'General Shop', 'Tailor Shop', 'Church']",budget,medium
+user_345,"['Tailor Shop', 'Electronics Store', 'Cobbler', 'Car Wash', 'Barbershop', 'Mobile Money Agent', 'Church', 'General Shop', 'Bakery']",budget,medium
+user_346,"['Salon', 'Cobbler', 'Hardware', 'Hardware Kiosk', 'Motorbike Repair', 'Barbershop', 'Pharmacy', 'Mobile Money Agent', 'Food Vendor', 'Bakery', 'Church']",budget,medium
+user_347,"['Hardware', 'Salon', 'Tailor Shop', 'Motorbike Repair', 'Barbershop', 'Pharmacy', 'General Shop', 'Hardware Kiosk', 'Cobbler']",mid,low
+user_348,"['Barbershop', 'Cobbler', 'Motorbike Repair', 'Tailor Shop', 'Food Vendor', 'Salon', 'Bakery', 'General Shop', 'Electronics Store', 'Hardware', 'Mobile Money Agent', 'Church']",budget,low
+user_349,"['Hardware Kiosk', 'Bakery', 'General Shop', 'Cobbler', 'Mobile Money Agent', 'Electronics Store', 'Food Vendor', 'Tailor Shop', 'Motorbike Repair', 'Pharmacy']",premium,medium
+user_350,"['Tailor Shop', 'General Shop', 'Cobbler', 'Church', 'Barbershop', 'Motorbike Repair', 'Salon', 'Pharmacy', 'Mobile Money Agent', 'Food Vendor', 'Electronics Store', 'Car Wash']",budget,low
+user_351,"['Pharmacy', 'Electronics Store', 'Church', 'Mobile Money Agent', 'Tailor Shop', 'Motorbike Repair', 'Car Wash', 'General Shop', 'Cobbler', 'Hardware', 'Hardware Kiosk']",mid,low
+user_352,"['Mobile Money Agent', 'Electronics Store', 'Motorbike Repair', 'Car Wash', 'Bakery', 'Barbershop', 'General Shop', 'Hardware', 'Hardware Kiosk', 'Tailor Shop', 'Church', 'Pharmacy']",mid,medium
+user_353,"['Hardware Kiosk', 'Church', 'Barbershop', 'Car Wash', 'Bakery', 'Salon', 'Tailor Shop', 'Mobile Money Agent', 'Food Vendor', 'Motorbike Repair', 'Hardware']",mid,medium
+user_354,"['General Shop', 'Cobbler', 'Car Wash', 'Tailor Shop', 'Mobile Money Agent', 'Barbershop', 'Salon', 'Bakery', 'Church', 'Pharmacy', 'Motorbike Repair', 'Hardware']",budget,medium
+user_355,"['Bakery', 'General Shop', 'Salon', 'Hardware Kiosk', 'Church', 'Mobile Money Agent', 'Tailor Shop', 'Motorbike Repair', 'Barbershop', 'Food Vendor', 'Cobbler']",budget,low
+user_356,"['Barbershop', 'Hardware', 'Salon', 'Motorbike Repair', 'Church', 'Bakery', 'Cobbler', 'General Shop', 'Tailor Shop', 'Car Wash', 'Hardware Kiosk']",budget,medium
+user_357,"['Salon', 'Tailor Shop', 'Hardware Kiosk', 'Car Wash', 'Food Vendor', 'General Shop', 'Pharmacy', 'Mobile Money Agent', 'Church']",budget,low
+user_358,"['Barbershop', 'Bakery', 'Food Vendor', 'Cobbler', 'General Shop', 'Salon', 'Car Wash', 'Church', 'Tailor Shop']",premium,high
+user_359,"['Bakery', 'Tailor Shop', 'Electronics Store', 'Pharmacy', 'Hardware', 'Salon', 'General Shop', 'Food Vendor', 'Barbershop', 'Motorbike Repair', 'Mobile Money Agent', 'Car Wash']",budget,medium
+user_360,"['General Shop', 'Salon', 'Mobile Money Agent', 'Pharmacy', 'Food Vendor', 'Tailor Shop', 'Electronics Store', 'Hardware', 'Motorbike Repair', 'Church', 'Barbershop', 'Hardware Kiosk']",budget,low
+user_361,"['Barbershop', 'Food Vendor', 'Church', 'Hardware Kiosk', 'Salon', 'Mobile Money Agent', 'General Shop', 'Motorbike Repair', 'Electronics Store', 'Car Wash']",budget,medium
+user_362,"['Hardware Kiosk', 'Food Vendor', 'Pharmacy', 'Cobbler', 'Tailor Shop', 'Salon', 'Car Wash', 'Electronics Store', 'Barbershop']",mid,low
+user_363,"['Barbershop', 'Hardware Kiosk', 'Mobile Money Agent', 'Cobbler', 'Electronics Store', 'Salon', 'Pharmacy', 'Food Vendor', 'Hardware', 'General Shop', 'Motorbike Repair']",budget,high
+user_364,"['Hardware Kiosk', 'Electronics Store', 'Car Wash', 'General Shop', 'Hardware', 'Motorbike Repair', 'Food Vendor', 'Cobbler', 'Tailor Shop', 'Bakery']",budget,high
+user_365,"['Hardware', 'Mobile Money Agent', 'Salon', 'Bakery', 'Electronics Store', 'Cobbler', 'Tailor Shop', 'Motorbike Repair', 'Pharmacy', 'Hardware Kiosk', 'Church', 'General Shop']",mid,medium
+user_366,"['General Shop', 'Bakery', 'Hardware', 'Electronics Store', 'Food Vendor', 'Hardware Kiosk', 'Pharmacy', 'Motorbike Repair', 'Car Wash', 'Salon', 'Cobbler']",budget,high
+user_367,"['Pharmacy', 'Electronics Store', 'General Shop', 'Bakery', 'Food Vendor', 'Cobbler', 'Barbershop', 'Mobile Money Agent', 'Car Wash']",premium,medium
+user_368,"['Cobbler', 'Food Vendor', 'Salon', 'Mobile Money Agent', 'Tailor Shop', 'Hardware Kiosk', 'Barbershop', 'Motorbike Repair', 'Bakery', 'Electronics Store']",budget,medium
+user_369,"['Bakery', 'Tailor Shop', 'Motorbike Repair', 'Cobbler', 'Church', 'Barbershop', 'Hardware Kiosk', 'Electronics Store', 'Hardware']",mid,medium
+user_370,"['Cobbler', 'Hardware Kiosk', 'Church', 'Food Vendor', 'Hardware', 'Pharmacy', 'Bakery', 'Motorbike Repair', 'Tailor Shop', 'Salon']",budget,medium
+user_371,"['Tailor Shop', 'Hardware', 'Bakery', 'Food Vendor', 'Barbershop', 'Pharmacy', 'Mobile Money Agent', 'Cobbler']",budget,medium
+user_372,"['Hardware', 'Hardware Kiosk', 'Car Wash', 'General Shop', 'Church', 'Barbershop', 'Electronics Store', 'Mobile Money Agent', 'Tailor Shop', 'Pharmacy', 'Bakery']",premium,medium
+user_373,"['Food Vendor', 'Hardware Kiosk', 'Church', 'Motorbike Repair', 'Pharmacy', 'Bakery', 'Car Wash', 'Cobbler', 'Salon', 'Tailor Shop']",budget,medium
+user_374,"['General Shop', 'Hardware Kiosk', 'Electronics Store', 'Salon', 'Motorbike Repair', 'Food Vendor', 'Church', 'Car Wash', 'Mobile Money Agent', 'Pharmacy']",budget,high
+user_375,"['Hardware Kiosk', 'General Shop', 'Cobbler', 'Motorbike Repair', 'Church', 'Bakery', 'Electronics Store', 'Mobile Money Agent', 'Pharmacy', 'Tailor Shop', 'Salon']",mid,high
+user_376,"['Salon', 'Tailor Shop', 'Electronics Store', 'General Shop', 'Church', 'Bakery', 'Cobbler', 'Motorbike Repair', 'Barbershop']",premium,medium
+user_377,"['Car Wash', 'Pharmacy', 'Salon', 'Tailor Shop', 'Mobile Money Agent', 'Motorbike Repair', 'Hardware Kiosk', 'Cobbler', 'Food Vendor', 'Barbershop', 'General Shop']",budget,high
+user_378,"['Salon', 'Cobbler', 'Bakery', 'Car Wash', 'Electronics Store', 'Hardware', 'General Shop', 'Food Vendor', 'Motorbike Repair', 'Tailor Shop', 'Hardware Kiosk']",budget,medium
+user_379,"['General Shop', 'Church', 'Hardware Kiosk', 'Mobile Money Agent', 'Hardware', 'Pharmacy', 'Food Vendor', 'Bakery', 'Barbershop', 'Tailor Shop', 'Motorbike Repair']",budget,high
+user_380,"['Barbershop', 'Car Wash', 'General Shop', 'Pharmacy', 'Mobile Money Agent', 'Church', 'Motorbike Repair', 'Food Vendor', 'Salon', 'Cobbler', 'Hardware', 'Electronics Store']",budget,high
+user_381,"['Tailor Shop', 'Mobile Money Agent', 'Bakery', 'Hardware Kiosk', 'Barbershop', 'Cobbler', 'General Shop', 'Pharmacy', 'Electronics Store']",premium,low
+user_382,"['Salon', 'Mobile Money Agent', 'Pharmacy', 'Hardware Kiosk', 'Hardware', 'Cobbler', 'Bakery', 'Food Vendor', 'Church']",budget,medium
+user_383,"['Mobile Money Agent', 'Barbershop', 'Church', 'Hardware Kiosk', 'Bakery', 'Hardware', 'Cobbler', 'Pharmacy']",budget,high
+user_384,"['Bakery', 'General Shop', 'Electronics Store', 'Mobile Money Agent', 'Hardware Kiosk', 'Church', 'Tailor Shop', 'Cobbler', 'Barbershop']",budget,high
+user_385,"['Car Wash', 'Barbershop', 'Motorbike Repair', 'Electronics Store', 'Salon', 'Hardware Kiosk', 'Cobbler', 'Bakery', 'Pharmacy', 'Church', 'Mobile Money Agent', 'Hardware']",mid,medium
+user_386,"['Bakery', 'Salon', 'Motorbike Repair', 'Mobile Money Agent', 'Cobbler', 'Hardware', 'Food Vendor', 'Church', 'Pharmacy', 'Barbershop']",budget,medium
+user_387,"['Barbershop', 'Car Wash', 'Hardware', 'Tailor Shop', 'Salon', 'Motorbike Repair', 'Electronics Store', 'Church', 'Cobbler']",budget,medium
+user_388,"['Cobbler', 'Tailor Shop', 'Hardware Kiosk', 'Pharmacy', 'General Shop', 'Hardware', 'Bakery', 'Food Vendor']",mid,medium
+user_389,"['Food Vendor', 'Mobile Money Agent', 'General Shop', 'Bakery', 'Church', 'Electronics Store', 'Salon', 'Car Wash', 'Hardware', 'Pharmacy', 'Barbershop']",premium,medium
+user_390,"['Hardware', 'Cobbler', 'Salon', 'Pharmacy', 'Church', 'Car Wash', 'Hardware Kiosk', 'Bakery', 'Tailor Shop', 'Motorbike Repair']",budget,medium
+user_391,"['Tailor Shop', 'Mobile Money Agent', 'Cobbler', 'Food Vendor', 'Electronics Store', 'Car Wash', 'Church', 'Salon']",mid,low
+user_392,"['Cobbler', 'Mobile Money Agent', 'Electronics Store', 'Tailor Shop', 'Car Wash', 'General Shop', 'Hardware', 'Barbershop', 'Bakery', 'Pharmacy']",budget,medium
+user_393,"['Salon', 'General Shop', 'Barbershop', 'Church', 'Motorbike Repair', 'Mobile Money Agent', 'Cobbler', 'Hardware Kiosk', 'Hardware', 'Electronics Store', 'Bakery']",budget,medium
+user_394,"['Tailor Shop', 'Electronics Store', 'Hardware', 'Car Wash', 'Motorbike Repair', 'Church', 'Cobbler', 'Salon', 'Bakery', 'Pharmacy', 'Mobile Money Agent', 'General Shop']",budget,medium
+user_395,"['Pharmacy', 'Salon', 'Mobile Money Agent', 'Bakery', 'Tailor Shop', 'Hardware Kiosk', 'Food Vendor', 'Barbershop', 'Electronics Store', 'Motorbike Repair', 'Church']",premium,high
+user_396,"['Motorbike Repair', 'Mobile Money Agent', 'Hardware Kiosk', 'Food Vendor', 'Salon', 'Hardware', 'General Shop', 'Bakery', 'Barbershop']",budget,medium
+user_397,"['Bakery', 'Food Vendor', 'Hardware', 'Mobile Money Agent', 'Tailor Shop', 'General Shop', 'Hardware Kiosk', 'Barbershop', 'Motorbike Repair', 'Cobbler']",budget,medium
+user_398,"['Bakery', 'Salon', 'Barbershop', 'Mobile Money Agent', 'General Shop', 'Hardware', 'Tailor Shop', 'Food Vendor', 'Electronics Store']",budget,medium
+user_399,"['Hardware Kiosk', 'Hardware', 'Bakery', 'Tailor Shop', 'Car Wash', 'Cobbler', 'Food Vendor', 'Electronics Store']",budget,low
+user_400,"['Hardware Kiosk', 'Salon', 'Cobbler', 'Pharmacy', 'Mobile Money Agent', 'Tailor Shop', 'Church', 'Hardware', 'Bakery']",mid,medium
+user_401,"['Salon', 'Hardware Kiosk', 'Car Wash', 'Motorbike Repair', 'General Shop', 'Barbershop', 'Mobile Money Agent', 'Tailor Shop', 'Electronics Store', 'Church', 'Pharmacy']",budget,medium
+user_402,"['Cobbler', 'Electronics Store', 'Car Wash', 'Hardware', 'Tailor Shop', 'Bakery', 'Mobile Money Agent', 'Salon', 'Pharmacy', 'Hardware Kiosk']",budget,medium
+user_403,"['Bakery', 'Salon', 'Barbershop', 'Electronics Store', 'Church', 'Food Vendor', 'General Shop', 'Cobbler']",mid,high
+user_404,"['Bakery', 'Tailor Shop', 'Cobbler', 'Pharmacy', 'Mobile Money Agent', 'Salon', 'Church', 'Car Wash']",premium,medium
+user_405,"['Food Vendor', 'Electronics Store', 'Church', 'Bakery', 'Car Wash', 'Pharmacy', 'Salon', 'General Shop', 'Cobbler', 'Tailor Shop']",budget,medium
+user_406,"['Motorbike Repair', 'Food Vendor', 'Cobbler', 'Car Wash', 'Salon', 'Tailor Shop', 'Church', 'Bakery']",premium,medium
+user_407,"['Hardware', 'Electronics Store', 'Tailor Shop', 'Car Wash', 'Church', 'Barbershop', 'General Shop', 'Pharmacy', 'Bakery']",budget,medium
+user_408,"['Cobbler', 'Electronics Store', 'Mobile Money Agent', 'Tailor Shop', 'Hardware Kiosk', 'Hardware', 'Food Vendor', 'Barbershop', 'Bakery']",budget,high
+user_409,"['Barbershop', 'Church', 'Pharmacy', 'Mobile Money Agent', 'Salon', 'Motorbike Repair', 'General Shop', 'Car Wash']",premium,low
+user_410,"['Salon', 'Electronics Store', 'Cobbler', 'Food Vendor', 'Tailor Shop', 'Hardware Kiosk', 'Mobile Money Agent', 'Church']",budget,high
+user_411,"['Mobile Money Agent', 'Cobbler', 'Electronics Store', 'Pharmacy', 'Salon', 'Barbershop', 'Hardware Kiosk', 'Hardware', 'Bakery', 'Car Wash']",mid,low
+user_412,"['Salon', 'Church', 'General Shop', 'Barbershop', 'Hardware Kiosk', 'Motorbike Repair', 'Mobile Money Agent', 'Tailor Shop', 'Car Wash']",mid,low
+user_413,"['Salon', 'Motorbike Repair', 'Pharmacy', 'Car Wash', 'Church', 'General Shop', 'Hardware Kiosk', 'Mobile Money Agent', 'Barbershop', 'Electronics Store', 'Food Vendor', 'Cobbler']",mid,medium
+user_414,"['Hardware', 'Car Wash', 'General Shop', 'Tailor Shop', 'Hardware Kiosk', 'Church', 'Electronics Store', 'Cobbler', 'Food Vendor']",mid,low
+user_415,"['Electronics Store', 'Hardware', 'Tailor Shop', 'Pharmacy', 'Food Vendor', 'Bakery', 'Hardware Kiosk', 'Car Wash']",mid,low
+user_416,"['Electronics Store', 'General Shop', 'Tailor Shop', 'Church', 'Car Wash', 'Hardware', 'Mobile Money Agent', 'Bakery', 'Food Vendor', 'Pharmacy']",budget,high
+user_417,"['Barbershop', 'Mobile Money Agent', 'Food Vendor', 'Salon', 'Electronics Store', 'Pharmacy', 'General Shop', 'Cobbler', 'Tailor Shop', 'Hardware', 'Bakery', 'Hardware Kiosk']",budget,high
+user_418,"['Bakery', 'Cobbler', 'Tailor Shop', 'Motorbike Repair', 'Barbershop', 'Church', 'Mobile Money Agent', 'Hardware', 'General Shop']",mid,medium
+user_419,"['Barbershop', 'Motorbike Repair', 'Tailor Shop', 'Hardware', 'Food Vendor', 'Salon', 'General Shop', 'Pharmacy', 'Electronics Store', 'Church']",budget,high
+user_420,"['Car Wash', 'Salon', 'Barbershop', 'Mobile Money Agent', 'Hardware Kiosk', 'Motorbike Repair', 'Electronics Store', 'Hardware', 'Church']",mid,medium
+user_421,"['Food Vendor', 'Bakery', 'Cobbler', 'Motorbike Repair', 'Hardware Kiosk', 'Car Wash', 'Hardware', 'Church', 'Electronics Store', 'Barbershop', 'Pharmacy']",premium,medium
+user_422,"['Car Wash', 'Church', 'Pharmacy', 'Bakery', 'Motorbike Repair', 'General Shop', 'Barbershop', 'Cobbler', 'Electronics Store', 'Food Vendor']",budget,medium
+user_423,"['Car Wash', 'Hardware', 'Cobbler', 'Church', 'Hardware Kiosk', 'Electronics Store', 'Barbershop', 'Bakery', 'Pharmacy', 'Tailor Shop', 'Salon', 'Food Vendor']",mid,high
+user_424,"['Tailor Shop', 'Car Wash', 'General Shop', 'Motorbike Repair', 'Mobile Money Agent', 'Hardware Kiosk', 'Bakery', 'Salon']",budget,medium
+user_425,"['Church', 'Car Wash', 'General Shop', 'Motorbike Repair', 'Electronics Store', 'Bakery', 'Salon', 'Hardware Kiosk']",mid,low
+user_426,"['Cobbler', 'Motorbike Repair', 'Salon', 'Car Wash', 'General Shop', 'Bakery', 'Pharmacy', 'Hardware Kiosk', 'Mobile Money Agent', 'Electronics Store', 'Food Vendor']",mid,medium
+user_427,"['Electronics Store', 'Bakery', 'Hardware', 'Salon', 'Cobbler', 'Motorbike Repair', 'Barbershop', 'Food Vendor']",mid,high
+user_428,"['Car Wash', 'General Shop', 'Barbershop', 'Hardware Kiosk', 'Motorbike Repair', 'Bakery', 'Tailor Shop', 'Pharmacy', 'Mobile Money Agent', 'Salon', 'Cobbler']",budget,medium
+user_429,"['Mobile Money Agent', 'Electronics Store', 'Cobbler', 'Motorbike Repair', 'Salon', 'Food Vendor', 'General Shop', 'Tailor Shop', 'Hardware', 'Barbershop', 'Bakery']",budget,medium
+user_430,"['Church', 'Motorbike Repair', 'Hardware', 'Barbershop', 'Car Wash', 'Salon', 'Hardware Kiosk', 'Food Vendor', 'Cobbler', 'Pharmacy', 'General Shop']",mid,medium
+user_431,"['Hardware', 'Tailor Shop', 'Pharmacy', 'Car Wash', 'Bakery', 'Motorbike Repair', 'General Shop', 'Cobbler', 'Mobile Money Agent']",budget,medium
+user_432,"['Church', 'Food Vendor', 'Barbershop', 'Car Wash', 'Salon', 'Pharmacy', 'Electronics Store', 'General Shop', 'Hardware', 'Cobbler', 'Mobile Money Agent']",premium,high
+user_433,"['Food Vendor', 'Salon', 'Mobile Money Agent', 'Electronics Store', 'Barbershop', 'General Shop', 'Cobbler', 'Church', 'Hardware', 'Motorbike Repair', 'Tailor Shop']",budget,high
+user_434,"['Barbershop', 'Church', 'Hardware', 'Car Wash', 'Pharmacy', 'Salon', 'Hardware Kiosk', 'Tailor Shop', 'Cobbler', 'Bakery', 'Motorbike Repair', 'Electronics Store']",budget,low
+user_435,"['Hardware Kiosk', 'Mobile Money Agent', 'General Shop', 'Church', 'Salon', 'Pharmacy', 'Barbershop', 'Cobbler', 'Motorbike Repair']",budget,medium
+user_436,"['Food Vendor', 'Tailor Shop', 'Motorbike Repair', 'Pharmacy', 'Electronics Store', 'Barbershop', 'Bakery', 'Mobile Money Agent']",mid,medium
+user_437,"['Cobbler', 'General Shop', 'Church', 'Pharmacy', 'Electronics Store', 'Car Wash', 'Hardware Kiosk', 'Mobile Money Agent', 'Bakery', 'Motorbike Repair', 'Hardware', 'Food Vendor']",budget,high
+user_438,"['Tailor Shop', 'Salon', 'Mobile Money Agent', 'Bakery', 'Hardware', 'Barbershop', 'General Shop', 'Motorbike Repair', 'Pharmacy', 'Car Wash', 'Electronics Store', 'Food Vendor']",budget,medium
+user_439,"['Church', 'Car Wash', 'Bakery', 'Mobile Money Agent', 'Food Vendor', 'General Shop', 'Motorbike Repair', 'Salon', 'Barbershop']",premium,medium
+user_440,"['Motorbike Repair', 'Bakery', 'Tailor Shop', 'Church', 'Hardware Kiosk', 'Cobbler', 'Salon', 'General Shop', 'Pharmacy']",budget,low
+user_441,"['Church', 'Bakery', 'Car Wash', 'General Shop', 'Food Vendor', 'Tailor Shop', 'Mobile Money Agent', 'Cobbler', 'Barbershop', 'Hardware']",budget,low
+user_442,"['Car Wash', 'Hardware', 'Barbershop', 'Bakery', 'Church', 'Pharmacy', 'Hardware Kiosk', 'Motorbike Repair']",mid,high
+user_443,"['Mobile Money Agent', 'Hardware Kiosk', 'Hardware', 'Car Wash', 'Cobbler', 'Church', 'Electronics Store', 'Pharmacy', 'Bakery', 'General Shop']",mid,high
+user_444,"['Hardware Kiosk', 'Electronics Store', 'Car Wash', 'Mobile Money Agent', 'Food Vendor', 'Bakery', 'Hardware', 'Church', 'Pharmacy', 'Salon', 'Barbershop']",mid,low
+user_445,"['Barbershop', 'Tailor Shop', 'Food Vendor', 'Pharmacy', 'Hardware Kiosk', 'Salon', 'Mobile Money Agent', 'Electronics Store']",mid,medium
+user_446,"['Bakery', 'Hardware Kiosk', 'Pharmacy', 'Electronics Store', 'Church', 'Food Vendor', 'Mobile Money Agent', 'Barbershop', 'General Shop', 'Salon', 'Hardware', 'Motorbike Repair']",premium,low
+user_447,"['Barbershop', 'Pharmacy', 'Tailor Shop', 'Motorbike Repair', 'Mobile Money Agent', 'Salon', 'Hardware', 'General Shop', 'Bakery', 'Electronics Store', 'Car Wash', 'Hardware Kiosk']",budget,high
+user_448,"['Electronics Store', 'Cobbler', 'Salon', 'Tailor Shop', 'Barbershop', 'Pharmacy', 'Mobile Money Agent', 'Hardware Kiosk', 'Bakery', 'Car Wash']",mid,medium
+user_449,"['General Shop', 'Tailor Shop', 'Food Vendor', 'Church', 'Mobile Money Agent', 'Cobbler', 'Pharmacy', 'Barbershop', 'Hardware']",budget,medium
+user_450,"['General Shop', 'Salon', 'Mobile Money Agent', 'Food Vendor', 'Tailor Shop', 'Hardware Kiosk', 'Pharmacy', 'Bakery', 'Electronics Store', 'Barbershop', 'Car Wash', 'Hardware']",mid,medium
+user_451,"['Pharmacy', 'Barbershop', 'General Shop', 'Church', 'Motorbike Repair', 'Electronics Store', 'Mobile Money Agent', 'Salon', 'Food Vendor']",premium,medium
+user_452,"['Hardware', 'Electronics Store', 'Pharmacy', 'General Shop', 'Food Vendor', 'Car Wash', 'Hardware Kiosk', 'Barbershop', 'Church', 'Motorbike Repair']",mid,medium
+user_453,"['Tailor Shop', 'Cobbler', 'Electronics Store', 'Pharmacy', 'Food Vendor', 'Bakery', 'General Shop', 'Mobile Money Agent', 'Church', 'Salon']",premium,high
+user_454,"['Mobile Money Agent', 'Hardware Kiosk', 'Motorbike Repair', 'Car Wash', 'Electronics Store', 'Cobbler', 'Church', 'Salon', 'Tailor Shop', 'Barbershop', 'General Shop', 'Food Vendor']",budget,medium
+user_455,"['Pharmacy', 'Church', 'Food Vendor', 'Bakery', 'Hardware', 'Mobile Money Agent', 'Motorbike Repair', 'General Shop', 'Salon', 'Cobbler', 'Barbershop']",mid,medium
+user_456,"['Food Vendor', 'Barbershop', 'Hardware', 'Cobbler', 'Tailor Shop', 'Motorbike Repair', 'Car Wash', 'Pharmacy']",budget,high
+user_457,"['Barbershop', 'Car Wash', 'Bakery', 'Electronics Store', 'Tailor Shop', 'Salon', 'General Shop', 'Food Vendor', 'Pharmacy', 'Cobbler', 'Hardware Kiosk']",mid,medium
+user_458,"['Salon', 'General Shop', 'Church', 'Electronics Store', 'Hardware', 'Bakery', 'Motorbike Repair', 'Food Vendor']",budget,high
+user_459,"['Cobbler', 'Church', 'Food Vendor', 'Bakery', 'Motorbike Repair', 'Tailor Shop', 'Car Wash', 'General Shop']",mid,medium
+user_460,"['Motorbike Repair', 'General Shop', 'Food Vendor', 'Pharmacy', 'Electronics Store', 'Bakery', 'Barbershop', 'Tailor Shop', 'Cobbler']",budget,medium
+user_461,"['Car Wash', 'Food Vendor', 'Mobile Money Agent', 'Barbershop', 'Motorbike Repair', 'Church', 'Salon', 'Pharmacy', 'Hardware Kiosk', 'General Shop', 'Bakery']",budget,medium
+user_462,"['Mobile Money Agent', 'Pharmacy', 'General Shop', 'Hardware Kiosk', 'Electronics Store', 'Church', 'Motorbike Repair', 'Bakery', 'Salon', 'Food Vendor', 'Barbershop', 'Cobbler']",budget,high
+user_463,"['Salon', 'General Shop', 'Food Vendor', 'Barbershop', 'Motorbike Repair', 'Hardware Kiosk', 'Pharmacy', 'Car Wash', 'Church', 'Bakery']",mid,low
+user_464,"['General Shop', 'Tailor Shop', 'Food Vendor', 'Barbershop', 'Motorbike Repair', 'Electronics Store', 'Cobbler', 'Church']",mid,high
+user_465,"['Salon', 'Pharmacy', 'Car Wash', 'Hardware', 'Cobbler', 'Church', 'Food Vendor', 'General Shop', 'Bakery', 'Electronics Store', 'Motorbike Repair', 'Barbershop']",premium,medium
+user_466,"['General Shop', 'Car Wash', 'Hardware Kiosk', 'Electronics Store', 'Food Vendor', 'Bakery', 'Church', 'Cobbler', 'Tailor Shop', 'Salon']",budget,medium
+user_467,"['Barbershop', 'Bakery', 'Pharmacy', 'Food Vendor', 'Church', 'Motorbike Repair', 'Hardware Kiosk', 'Salon', 'General Shop']",budget,medium
+user_468,"['Bakery', 'Church', 'Pharmacy', 'Hardware', 'Car Wash', 'Electronics Store', 'Barbershop', 'Motorbike Repair', 'General Shop', 'Food Vendor', 'Mobile Money Agent', 'Tailor Shop']",budget,medium
+user_469,"['Electronics Store', 'Hardware Kiosk', 'Barbershop', 'Car Wash', 'Mobile Money Agent', 'Bakery', 'Hardware', 'Salon', 'Motorbike Repair', 'Pharmacy']",mid,high
+user_470,"['Hardware Kiosk', 'Motorbike Repair', 'Electronics Store', 'Salon', 'Bakery', 'Church', 'Cobbler', 'Tailor Shop', 'Pharmacy', 'General Shop']",premium,medium
+user_471,"['Pharmacy', 'Tailor Shop', 'Car Wash', 'Food Vendor', 'General Shop', 'Hardware', 'Barbershop', 'Bakery', 'Salon', 'Electronics Store', 'Cobbler']",mid,high
+user_472,"['Salon', 'Cobbler', 'Hardware', 'General Shop', 'Electronics Store', 'Pharmacy', 'Mobile Money Agent', 'Barbershop']",mid,medium
+user_473,"['Car Wash', 'Cobbler', 'Salon', 'Church', 'Hardware', 'Motorbike Repair', 'Pharmacy', 'Mobile Money Agent', 'Electronics Store']",budget,low
+user_474,"['Hardware Kiosk', 'General Shop', 'Motorbike Repair', 'Salon', 'Church', 'Car Wash', 'Bakery', 'Mobile Money Agent']",budget,medium
+user_475,"['General Shop', 'Electronics Store', 'Mobile Money Agent', 'Salon', 'Pharmacy', 'Hardware Kiosk', 'Hardware', 'Food Vendor', 'Church', 'Car Wash']",premium,high
+user_476,"['General Shop', 'Tailor Shop', 'Pharmacy', 'Electronics Store', 'Car Wash', 'Motorbike Repair', 'Church', 'Hardware Kiosk', 'Food Vendor', 'Hardware', 'Mobile Money Agent', 'Barbershop']",budget,high
+user_477,"['Salon', 'Motorbike Repair', 'Tailor Shop', 'Electronics Store', 'Car Wash', 'General Shop', 'Mobile Money Agent', 'Pharmacy', 'Hardware', 'Bakery']",mid,medium
+user_478,"['Food Vendor', 'Electronics Store', 'Church', 'Motorbike Repair', 'General Shop', 'Hardware Kiosk', 'Bakery', 'Car Wash', 'Mobile Money Agent', 'Pharmacy', 'Barbershop']",budget,medium
+user_479,"['Food Vendor', 'Electronics Store', 'Car Wash', 'Bakery', 'General Shop', 'Mobile Money Agent', 'Barbershop', 'Salon']",budget,medium
+user_480,"['Tailor Shop', 'Hardware', 'Mobile Money Agent', 'General Shop', 'Church', 'Salon', 'Electronics Store', 'Cobbler', 'Hardware Kiosk']",budget,medium
+user_481,"['Tailor Shop', 'Hardware', 'General Shop', 'Car Wash', 'Food Vendor', 'Church', 'Barbershop', 'Pharmacy', 'Cobbler', 'Mobile Money Agent']",budget,low
+user_482,"['Food Vendor', 'General Shop', 'Tailor Shop', 'Motorbike Repair', 'Pharmacy', 'Electronics Store', 'Bakery', 'Church', 'Hardware Kiosk']",budget,medium
+user_483,"['Church', 'General Shop', 'Electronics Store', 'Mobile Money Agent', 'Motorbike Repair', 'Bakery', 'Hardware Kiosk', 'Hardware']",mid,high
+user_484,"['Salon', 'Bakery', 'Hardware Kiosk', 'Church', 'Car Wash', 'Cobbler', 'Food Vendor', 'Pharmacy', 'Motorbike Repair', 'Hardware', 'Barbershop', 'Electronics Store']",budget,high
+user_485,"['Church', 'Barbershop', 'Car Wash', 'Bakery', 'Food Vendor', 'General Shop', 'Motorbike Repair', 'Cobbler', 'Tailor Shop']",premium,medium
+user_486,"['Bakery', 'Electronics Store', 'Salon', 'Motorbike Repair', 'Tailor Shop', 'Mobile Money Agent', 'Cobbler', 'Food Vendor', 'Barbershop', 'General Shop']",mid,low
+user_487,"['Hardware Kiosk', 'Barbershop', 'Car Wash', 'Electronics Store', 'General Shop', 'Tailor Shop', 'Church', 'Bakery', 'Food Vendor']",mid,high
+user_488,"['Tailor Shop', 'Cobbler', 'Bakery', 'Pharmacy', 'Salon', 'Electronics Store', 'General Shop', 'Food Vendor', 'Motorbike Repair']",premium,high
+user_489,"['Salon', 'Food Vendor', 'Church', 'Mobile Money Agent', 'Tailor Shop', 'Motorbike Repair', 'Car Wash', 'Cobbler', 'General Shop', 'Pharmacy']",budget,high
+user_490,"['Electronics Store', 'Salon', 'Bakery', 'Mobile Money Agent', 'Church', 'Car Wash', 'Pharmacy', 'Hardware', 'Barbershop', 'General Shop', 'Tailor Shop', 'Cobbler']",mid,medium
+user_491,"['Food Vendor', 'Hardware', 'Tailor Shop', 'Motorbike Repair', 'Cobbler', 'Bakery', 'Pharmacy', 'Hardware Kiosk', 'General Shop', 'Electronics Store', 'Mobile Money Agent']",premium,high
+user_492,"['Pharmacy', 'Cobbler', 'General Shop', 'Bakery', 'Church', 'Food Vendor', 'Barbershop', 'Motorbike Repair', 'Car Wash', 'Tailor Shop', 'Electronics Store', 'Salon']",premium,medium
+user_493,"['Car Wash', 'Pharmacy', 'General Shop', 'Motorbike Repair', 'Hardware Kiosk', 'Food Vendor', 'Mobile Money Agent', 'Cobbler', 'Bakery', 'Tailor Shop', 'Barbershop', 'Salon']",budget,medium
+user_494,"['Mobile Money Agent', 'Motorbike Repair', 'Food Vendor', 'Hardware', 'Car Wash', 'Electronics Store', 'Tailor Shop', 'Pharmacy']",budget,low
+user_495,"['Tailor Shop', 'Cobbler', 'Barbershop', 'Car Wash', 'Electronics Store', 'Church', 'Hardware Kiosk', 'Salon', 'Pharmacy', 'Bakery', 'Motorbike Repair', 'Hardware']",mid,medium
+user_496,"['General Shop', 'Barbershop', 'Bakery', 'Salon', 'Mobile Money Agent', 'Pharmacy', 'Car Wash', 'Food Vendor', 'Tailor Shop', 'Electronics Store', 'Cobbler']",mid,medium
+user_497,"['Bakery', 'Food Vendor', 'General Shop', 'Electronics Store', 'Hardware Kiosk', 'Pharmacy', 'Barbershop', 'Motorbike Repair', 'Salon', 'Cobbler', 'Tailor Shop', 'Hardware']",budget,medium
+user_498,"['Salon', 'Mobile Money Agent', 'General Shop', 'Pharmacy', 'Car Wash', 'Church', 'Barbershop', 'Hardware', 'Bakery', 'Cobbler', 'Motorbike Repair']",budget,medium
+user_499,"['Electronics Store', 'Hardware', 'Bakery', 'Barbershop', 'Car Wash', 'Salon', 'Food Vendor', 'Hardware Kiosk', 'Motorbike Repair', 'Cobbler', 'General Shop', 'Mobile Money Agent']",budget,medium
+user_500,"['Salon', 'Tailor Shop', 'Bakery', 'Electronics Store', 'Car Wash', 'General Shop', 'Church', 'Food Vendor', 'Barbershop', 'Pharmacy']",mid,high
